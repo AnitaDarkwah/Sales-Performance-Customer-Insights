@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerID,Region,SalesChannel,Product,Category,Quantity,UnitPrice_GHS,DiscountPct,SalesAmount_GHS,UnitCost_GHS,TotalCost_GHS,Profit_GHS,PaymentMethod,OrderStatus
+ORD-00001,2025-02-02,CUST-1162,Central,In-store,Printer Paper,Stationery,2,120.0,0.15,204.0,68.0,136.0,68.0,Mobile Money,Completed
+ORD-00002,2025-10-10,CUST-1180,Eastern,In-store,Monitor,Electronics,1,1650.0,0.05,1567.5,1120.0,1120.0,447.5,Card,Completed
+ORD-00003,2025-08-27,CUST-1067,Northern,Online,Office Chair,Furniture,6,950.0,0.0,5700.0,590.0,3540.0,2160.0,Mobile Money,Completed
+ORD-00004,2025-06-10,CUST-1090,Ashanti,Online,Office Chair,Furniture,6,950.0,0.1,5130.0,590.0,3540.0,1590.0,Card,Completed
+ORD-00005,2025-06-08,CUST-1237,Ashanti,In-store,Backpack,Accessories,7,320.0,0.0,2240.0,155.0,1085.0,1155.0,Cash,Completed
+ORD-00006,2025-11-10,CUST-1213,Central,In-store,Desk,Furniture,8,1250.0,0.1,9000.0,790.0,6320.0,2680.0,Mobile Money,Completed
+ORD-00007,2025-02-01,CUST-1104,Greater Accra,In-store,Printer Paper,Stationery,4,120.0,0.05,456.0,68.0,272.0,184.0,Mobile Money,Returned
+ORD-00008,2025-09-12,CUST-1061,Eastern,In-store,Desk,Furniture,7,1250.0,0.0,8750.0,790.0,5530.0,3220.0,Card,Completed
+ORD-00009,2025-03-15,CUST-1076,Ashanti,Online,Smartphone,Electronics,6,2800.0,0.0,16800.0,1950.0,11700.0,5100.0,Bank Transfer,Completed
+ORD-00010,2025-02-04,CUST-1135,Greater Accra,In-store,Backpack,Accessories,3,320.0,0.1,864.0,155.0,465.0,399.0,Card,Completed
+ORD-00011,2025-07-12,CUST-1142,Greater Accra,Online,Smartphone,Electronics,7,2800.0,0.0,19600.0,1950.0,13650.0,5950.0,Mobile Money,Completed
+ORD-00012,2025-12-23,CUST-1047,Eastern,Online,Smartphone,Electronics,1,2800.0,0.15,2380.0,1950.0,1950.0,430.0,Card,Completed
+ORD-00013,2025-09-26,CUST-1017,Greater Accra,Phone,Notebook Pack,Stationery,5,65.0,0.1,292.5,28.0,140.0,152.5,Card,Completed
+ORD-00014,2025-10-05,CUST-1124,Greater Accra,In-store,Backpack,Accessories,8,320.0,0.1,2304.0,155.0,1240.0,1064.0,Mobile Money,Completed
+ORD-00015,2025-09-19,CUST-1200,Greater Accra,In-store,USB Drive,Accessories,6,95.0,0.0,570.0,42.0,252.0,318.0,Mobile Money,Completed
+ORD-00016,2025-10-14,CUST-1039,Greater Accra,In-store,Headphones,Electronics,8,450.0,0.1,3240.0,230.0,1840.0,1400.0,Cash,Completed
+ORD-00017,2025-07-07,CUST-1103,Greater Accra,In-store,Smartphone,Electronics,1,2800.0,0.2,2240.0,1950.0,1950.0,290.0,Mobile Money,Completed
+ORD-00018,2025-02-16,CUST-1041,Central,In-store,Monitor,Electronics,5,1650.0,0.0,8250.0,1120.0,5600.0,2650.0,Mobile Money,Completed
+ORD-00019,2025-11-03,CUST-1061,Greater Accra,Online,Smartphone,Electronics,7,2800.0,0.0,19600.0,1950.0,13650.0,5950.0,Mobile Money,Completed
+ORD-00020,2025-06-14,CUST-1154,Eastern,In-store,Smartphone,Electronics,6,2800.0,0.0,16800.0,1950.0,11700.0,5100.0,Card,Completed
+ORD-00021,2025-07-02,CUST-1072,Eastern,In-store,Headphones,Electronics,8,450.0,0.0,3600.0,230.0,1840.0,1760.0,Card,Returned
+ORD-00022,2025-05-16,CUST-1066,Ashanti,In-store,Notebook Pack,Stationery,4,65.0,0.1,234.0,28.0,112.0,122.0,Mobile Money,Completed
+ORD-00023,2025-03-08,CUST-1249,Greater Accra,Online,USB Drive,Accessories,6,95.0,0.05,541.5,42.0,252.0,289.5,Card,Completed
+ORD-00024,2025-12-05,CUST-1044,Western,Phone,Backpack,Accessories,4,320.0,0.05,1216.0,155.0,620.0,596.0,Card,Completed
+ORD-00025,2025-10-13,CUST-1048,Greater Accra,Online,Printer Paper,Stationery,7,120.0,0.0,840.0,68.0,476.0,364.0,Mobile Money,Completed
+ORD-00026,2025-08-24,CUST-1233,Ashanti,Online,Smartphone,Electronics,1,2800.0,0.0,2800.0,1950.0,1950.0,850.0,Cash,Returned
+ORD-00027,2025-05-27,CUST-1138,Northern,Online,Headphones,Electronics,3,450.0,0.0,1350.0,230.0,690.0,660.0,Mobile Money,Completed
+ORD-00028,2025-10-28,CUST-1011,Northern,Online,Desk,Furniture,1,1250.0,0.15,1062.5,790.0,790.0,272.5,Mobile Money,Completed
+ORD-00029,2025-07-19,CUST-1107,Central,In-store,Smartphone,Electronics,6,2800.0,0.1,15120.0,1950.0,11700.0,3420.0,Cash,Completed
+ORD-00030,2025-06-11,CUST-1142,Greater Accra,Online,Headphones,Electronics,2,450.0,0.0,900.0,230.0,460.0,440.0,Bank Transfer,Completed
+ORD-00031,2025-06-14,CUST-1064,Western,Online,Headphones,Electronics,3,450.0,0.1,1215.0,230.0,690.0,525.0,Mobile Money,Completed
+ORD-00032,2025-03-24,CUST-1138,Central,In-store,Smartphone,Electronics,7,2800.0,0.0,19600.0,1950.0,13650.0,5950.0,Bank Transfer,Returned
+ORD-00033,2025-02-03,CUST-1163,Ashanti,Online,Notebook Pack,Stationery,3,65.0,0.0,195.0,28.0,84.0,111.0,Card,Completed
+ORD-00034,2025-07-22,CUST-1063,Western,Online,Printer Paper,Stationery,2,120.0,0.0,240.0,68.0,136.0,104.0,Mobile Money,Completed
+ORD-00035,2025-11-21,CUST-1204,Greater Accra,Online,Laptop,Electronics,1,4200.0,0.2,3360.0,3000.0,3000.0,360.0,Bank Transfer,Completed
+ORD-00036,2025-01-24,CUST-1114,Greater Accra,In-store,Desk,Furniture,2,1250.0,0.1,2250.0,790.0,1580.0,670.0,Bank Transfer,Completed
+ORD-00037,2025-11-10,CUST-1241,Ashanti,Online,Backpack,Accessories,8,320.0,0.1,2304.0,155.0,1240.0,1064.0,Mobile Money,Completed
+ORD-00038,2025-10-30,CUST-1022,Greater Accra,Phone,Backpack,Accessories,5,320.0,0.0,1600.0,155.0,775.0,825.0,Card,Completed
+ORD-00039,2025-04-12,CUST-1082,Greater Accra,In-store,Backpack,Accessories,8,320.0,0.0,2560.0,155.0,1240.0,1320.0,Mobile Money,Completed
+ORD-00040,2025-08-19,CUST-1181,Eastern,In-store,Office Chair,Furniture,2,950.0,0.1,1710.0,590.0,1180.0,530.0,Mobile Money,Completed
+ORD-00041,2025-03-02,CUST-1224,Northern,In-store,Backpack,Accessories,3,320.0,0.0,960.0,155.0,465.0,495.0,Cash,Completed
+ORD-00042,2025-10-04,CUST-1056,Ashanti,In-store,Headphones,Electronics,2,450.0,0.15,765.0,230.0,460.0,305.0,Card,Completed
+ORD-00043,2025-09-13,CUST-1246,Eastern,Phone,Headphones,Electronics,4,450.0,0.1,1620.0,230.0,920.0,700.0,Card,Returned
+ORD-00044,2025-05-10,CUST-1049,Northern,Online,Smartphone,Electronics,5,2800.0,0.05,13300.0,1950.0,9750.0,3550.0,Card,Completed
+ORD-00045,2025-01-25,CUST-1105,Greater Accra,In-store,Desk,Furniture,7,1250.0,0.1,7875.0,790.0,5530.0,2345.0,Card,Completed
+ORD-00046,2025-12-21,CUST-1079,Ashanti,In-store,Office Chair,Furniture,3,950.0,0.2,2280.0,590.0,1770.0,510.0,Mobile Money,Completed
+ORD-00047,2025-06-12,CUST-1107,Ashanti,Phone,Headphones,Electronics,7,450.0,0.05,2992.5,230.0,1610.0,1382.5,Cash,Completed
+ORD-00048,2025-11-22,CUST-1226,Greater Accra,In-store,Backpack,Accessories,6,320.0,0.1,1728.0,155.0,930.0,798.0,Card,Completed
+ORD-00049,2025-09-05,CUST-1184,Central,Online,Headphones,Electronics,3,450.0,0.15,1147.5,230.0,690.0,457.5,Card,Completed
+ORD-00050,2025-10-12,CUST-1200,Ashanti,In-store,Headphones,Electronics,8,450.0,0.0,3600.0,230.0,1840.0,1760.0,Card,Completed
+ORD-00051,2025-10-05,CUST-1064,Ashanti,In-store,Smartphone,Electronics,4,2800.0,0.15,9520.0,1950.0,7800.0,1720.0,Mobile Money,Completed
+ORD-00052,2025-03-13,CUST-1237,Greater Accra,Online,Office Chair,Furniture,2,950.0,0.0,1900.0,590.0,1180.0,720.0,Mobile Money,Completed
+ORD-00053,2025-05-13,CUST-1109,Greater Accra,In-store,Headphones,Electronics,8,450.0,0.1,3240.0,230.0,1840.0,1400.0,Mobile Money,Completed
+ORD-00054,2025-06-20,CUST-1163,Eastern,Online,Headphones,Electronics,8,450.0,0.1,3240.0,230.0,1840.0,1400.0,Mobile Money,Completed
+ORD-00055,2025-07-01,CUST-1175,Greater Accra,In-store,Headphones,Electronics,1,450.0,0.1,405.0,230.0,230.0,175.0,Card,Completed
+ORD-00056,2025-01-16,CUST-1166,Greater Accra,Online,Backpack,Accessories,8,320.0,0.05,2432.0,155.0,1240.0,1192.0,Cash,Completed
+ORD-00057,2025-07-19,CUST-1151,Greater Accra,Online,Monitor,Electronics,8,1650.0,0.1,11880.0,1120.0,8960.0,2920.0,Mobile Money,Completed
+ORD-00058,2025-02-26,CUST-1121,Ashanti,Online,Desk,Furniture,7,1250.0,0.0,8750.0,790.0,5530.0,3220.0,Mobile Money,Completed
+ORD-00059,2025-09-29,CUST-1162,Western,In-store,Printer Paper,Stationery,3,120.0,0.0,360.0,68.0,204.0,156.0,Card,Completed
+ORD-00060,2025-09-07,CUST-1227,Ashanti,Online,USB Drive,Accessories,6,95.0,0.0,570.0,42.0,252.0,318.0,Mobile Money,Completed
+ORD-00061,2025-12-03,CUST-1098,Greater Accra,Phone,Monitor,Electronics,5,1650.0,0.05,7837.5,1120.0,5600.0,2237.5,Cash,Completed
+ORD-00062,2025-09-29,CUST-1128,Greater Accra,In-store,Notebook Pack,Stationery,5,65.0,0.05,308.75,28.0,140.0,168.75,Mobile Money,Completed
+ORD-00063,2025-05-14,CUST-1046,Eastern,In-store,USB Drive,Accessories,5,95.0,0.0,475.0,42.0,210.0,265.0,Mobile Money,Completed
+ORD-00064,2025-12-20,CUST-1089,Western,Online,USB Drive,Accessories,6,95.0,0.15,484.5,42.0,252.0,232.5,Mobile Money,Returned
+ORD-00065,2025-05-30,CUST-1194,Western,In-store,Backpack,Accessories,5,320.0,0.0,1600.0,155.0,775.0,825.0,Cash,Completed
+ORD-00066,2025-04-29,CUST-1161,Western,Online,Desk,Furniture,6,1250.0,0.05,7125.0,790.0,4740.0,2385.0,Mobile Money,Completed
+ORD-00067,2025-11-27,CUST-1053,Central,Online,Laptop,Electronics,5,4200.0,0.05,19950.0,3000.0,15000.0,4950.0,Card,Completed
+ORD-00068,2025-05-16,CUST-1137,Greater Accra,In-store,Laptop,Electronics,1,4200.0,0.0,4200.0,3000.0,3000.0,1200.0,Mobile Money,Completed
+ORD-00069,2025-01-28,CUST-1203,Ashanti,Online,Desk,Furniture,1,1250.0,0.1,1125.0,790.0,790.0,335.0,Mobile Money,Completed
+ORD-00070,2025-06-21,CUST-1032,Ashanti,Online,Desk,Furniture,8,1250.0,0.05,9500.0,790.0,6320.0,3180.0,Cash,Completed
+ORD-00071,2025-10-18,CUST-1016,Greater Accra,In-store,Office Chair,Furniture,8,950.0,0.0,7600.0,590.0,4720.0,2880.0,Mobile Money,Completed
+ORD-00072,2025-03-11,CUST-1099,Eastern,Phone,Notebook Pack,Stationery,5,65.0,0.2,260.0,28.0,140.0,120.0,Mobile Money,Completed
+ORD-00073,2025-06-18,CUST-1165,Ashanti,In-store,Notebook Pack,Stationery,2,65.0,0.1,117.0,28.0,56.0,61.0,Card,Completed
+ORD-00074,2025-02-17,CUST-1079,Central,In-store,USB Drive,Accessories,7,95.0,0.1,598.5,42.0,294.0,304.5,Cash,Completed
+ORD-00075,2025-09-08,CUST-1206,Eastern,Online,Smartphone,Electronics,2,2800.0,0.15,4760.0,1950.0,3900.0,860.0,Mobile Money,Completed
+ORD-00076,2025-06-23,CUST-1212,Ashanti,In-store,Smartphone,Electronics,4,2800.0,0.15,9520.0,1950.0,7800.0,1720.0,Mobile Money,Completed
+ORD-00077,2025-05-01,CUST-1134,Eastern,Online,Backpack,Accessories,3,320.0,0.0,960.0,155.0,465.0,495.0,Cash,Completed
+ORD-00078,2025-03-24,CUST-1095,Western,In-store,USB Drive,Accessories,1,95.0,0.1,85.5,42.0,42.0,43.5,Card,Completed
+ORD-00079,2025-07-26,CUST-1011,Eastern,Online,Monitor,Electronics,7,1650.0,0.1,10395.0,1120.0,7840.0,2555.0,Bank Transfer,Returned
+ORD-00080,2025-09-02,CUST-1206,Ashanti,In-store,USB Drive,Accessories,5,95.0,0.0,475.0,42.0,210.0,265.0,Bank Transfer,Returned
+ORD-00081,2025-12-10,CUST-1224,Ashanti,Online,USB Drive,Accessories,3,95.0,0.0,285.0,42.0,126.0,159.0,Bank Transfer,Completed
+ORD-00082,2025-06-09,CUST-1111,Ashanti,Online,Headphones,Electronics,5,450.0,0.0,2250.0,230.0,1150.0,1100.0,Mobile Money,Completed
+ORD-00083,2025-02-28,CUST-1130,Greater Accra,Online,Office Chair,Furniture,1,950.0,0.1,855.0,590.0,590.0,265.0,Mobile Money,Completed
+ORD-00084,2025-10-31,CUST-1189,Ashanti,Phone,Headphones,Electronics,4,450.0,0.1,1620.0,230.0,920.0,700.0,Bank Transfer,Completed
+ORD-00085,2025-08-18,CUST-1174,Northern,Online,Notebook Pack,Stationery,5,65.0,0.1,292.5,28.0,140.0,152.5,Bank Transfer,Completed
+ORD-00086,2025-09-13,CUST-1034,Western,Online,Monitor,Electronics,3,1650.0,0.0,4950.0,1120.0,3360.0,1590.0,Cash,Completed
+ORD-00087,2025-02-05,CUST-1169,Greater Accra,Online,Headphones,Electronics,7,450.0,0.0,3150.0,230.0,1610.0,1540.0,Card,Completed
+ORD-00088,2025-04-25,CUST-1232,Greater Accra,Phone,Notebook Pack,Stationery,2,65.0,0.05,123.5,28.0,56.0,67.5,Mobile Money,Returned
+ORD-00089,2025-10-08,CUST-1188,Greater Accra,Online,Headphones,Electronics,2,450.0,0.05,855.0,230.0,460.0,395.0,Card,Completed
+ORD-00090,2025-10-31,CUST-1121,Greater Accra,Phone,Smartphone,Electronics,5,2800.0,0.15,11900.0,1950.0,9750.0,2150.0,Card,Completed
+ORD-00091,2025-06-08,CUST-1131,Northern,In-store,Smartphone,Electronics,8,2800.0,0.15,19040.0,1950.0,15600.0,3440.0,Card,Completed
+ORD-00092,2025-10-21,CUST-1065,Ashanti,Online,Laptop,Electronics,4,4200.0,0.15,14280.0,3000.0,12000.0,2280.0,Bank Transfer,Completed
+ORD-00093,2025-11-04,CUST-1166,Greater Accra,Online,Monitor,Electronics,1,1650.0,0.15,1402.5,1120.0,1120.0,282.5,Card,Completed
+ORD-00094,2025-05-22,CUST-1061,Western,In-store,Office Chair,Furniture,8,950.0,0.2,6080.0,590.0,4720.0,1360.0,Mobile Money,Completed
+ORD-00095,2025-11-24,CUST-1086,Greater Accra,In-store,USB Drive,Accessories,4,95.0,0.05,361.0,42.0,168.0,193.0,Card,Returned
+ORD-00096,2025-04-16,CUST-1067,Greater Accra,Phone,Printer Paper,Stationery,2,120.0,0.0,240.0,68.0,136.0,104.0,Card,Completed
+ORD-00097,2025-03-29,CUST-1084,Central,In-store,Smartphone,Electronics,5,2800.0,0.0,14000.0,1950.0,9750.0,4250.0,Cash,Completed
+ORD-00098,2025-09-07,CUST-1092,Western,In-store,Smartphone,Electronics,3,2800.0,0.0,8400.0,1950.0,5850.0,2550.0,Card,Completed
+ORD-00099,2025-08-21,CUST-1021,Northern,In-store,Backpack,Accessories,8,320.0,0.0,2560.0,155.0,1240.0,1320.0,Card,Completed
+ORD-00100,2025-02-21,CUST-1180,Western,In-store,Headphones,Electronics,3,450.0,0.0,1350.0,230.0,690.0,660.0,Card,Completed
+ORD-00101,2025-10-31,CUST-1111,Ashanti,Online,Monitor,Electronics,5,1650.0,0.2,6600.0,1120.0,5600.0,1000.0,Card,Completed
+ORD-00102,2025-03-14,CUST-1238,Central,Phone,Smartphone,Electronics,5,2800.0,0.0,14000.0,1950.0,9750.0,4250.0,Mobile Money,Completed
+ORD-00103,2025-10-21,CUST-1046,Eastern,Phone,Printer Paper,Stationery,2,120.0,0.2,192.0,68.0,136.0,56.0,Cash,Completed
+ORD-00104,2025-01-03,CUST-1168,Central,Online,Backpack,Accessories,4,320.0,0.1,1152.0,155.0,620.0,532.0,Cash,Completed
+ORD-00105,2025-10-18,CUST-1045,Northern,Online,Headphones,Electronics,1,450.0,0.1,405.0,230.0,230.0,175.0,Card,Completed
+ORD-00106,2025-10-15,CUST-1137,Central,In-store,Headphones,Electronics,6,450.0,0.1,2430.0,230.0,1380.0,1050.0,Card,Completed
+ORD-00107,2025-10-12,CUST-1123,Eastern,Phone,Monitor,Electronics,7,1650.0,0.0,11550.0,1120.0,7840.0,3710.0,Mobile Money,Completed
+ORD-00108,2025-08-31,CUST-1113,Greater Accra,In-store,Headphones,Electronics,8,450.0,0.1,3240.0,230.0,1840.0,1400.0,Card,Completed
+ORD-00109,2025-06-22,CUST-1164,Central,In-store,Office Chair,Furniture,3,950.0,0.0,2850.0,590.0,1770.0,1080.0,Card,Completed
+ORD-00110,2025-09-15,CUST-1208,Ashanti,Phone,Office Chair,Furniture,3,950.0,0.15,2422.5,590.0,1770.0,652.5,Bank Transfer,Completed
+ORD-00111,2025-04-12,CUST-1080,Ashanti,Phone,Headphones,Electronics,5,450.0,0.0,2250.0,230.0,1150.0,1100.0,Mobile Money,Completed
+ORD-00112,2025-10-12,CUST-1213,Western,In-store,Backpack,Accessories,6,320.0,0.0,1920.0,155.0,930.0,990.0,Bank Transfer,Completed
+ORD-00113,2025-07-22,CUST-1047,Northern,Online,Backpack,Accessories,8,320.0,0.1,2304.0,155.0,1240.0,1064.0,Mobile Money,Completed
+ORD-00114,2025-06-17,CUST-1074,Northern,Online,Office Chair,Furniture,1,950.0,0.1,855.0,590.0,590.0,265.0,Card,Completed
+ORD-00115,2025-07-04,CUST-1078,Greater Accra,In-store,USB Drive,Accessories,2,95.0,0.05,180.5,42.0,84.0,96.5,Card,Returned
+ORD-00116,2025-07-27,CUST-1239,Central,In-store,Smartphone,Electronics,3,2800.0,0.1,7560.0,1950.0,5850.0,1710.0,Mobile Money,Completed
+ORD-00117,2025-01-14,CUST-1030,Central,In-store,Laptop,Electronics,3,4200.0,0.0,12600.0,3000.0,9000.0,3600.0,Card,Completed
+ORD-00118,2025-02-21,CUST-1099,Ashanti,Online,Notebook Pack,Stationery,4,65.0,0.1,234.0,28.0,112.0,122.0,Bank Transfer,Completed
+ORD-00119,2025-03-31,CUST-1107,Greater Accra,In-store,Monitor,Electronics,7,1650.0,0.0,11550.0,1120.0,7840.0,3710.0,Card,Completed
+ORD-00120,2025-02-11,CUST-1201,Greater Accra,Online,Laptop,Electronics,1,4200.0,0.0,4200.0,3000.0,3000.0,1200.0,Mobile Money,Completed
+ORD-00121,2025-06-10,CUST-1122,Central,In-store,Smartphone,Electronics,7,2800.0,0.0,19600.0,1950.0,13650.0,5950.0,Card,Completed
+ORD-00122,2025-09-01,CUST-1242,Ashanti,Phone,Desk,Furniture,5,1250.0,0.0,6250.0,790.0,3950.0,2300.0,Mobile Money,Completed
+ORD-00123,2025-08-27,CUST-1186,Northern,Online,Backpack,Accessories,5,320.0,0.0,1600.0,155.0,775.0,825.0,Card,Completed
+ORD-00124,2025-06-21,CUST-1176,Ashanti,Phone,Laptop,Electronics,6,4200.0,0.05,23940.0,3000.0,18000.0,5940.0,Card,Completed
+ORD-00125,2025-11-09,CUST-1189,Northern,In-store,Office Chair,Furniture,1,950.0,0.0,950.0,590.0,590.0,360.0,Mobile Money,Completed
+ORD-00126,2025-07-26,CUST-1041,Ashanti,Online,Backpack,Accessories,6,320.0,0.0,1920.0,155.0,930.0,990.0,Card,Completed
+ORD-00127,2025-01-29,CUST-1113,Central,Online,Office Chair,Furniture,2,950.0,0.05,1805.0,590.0,1180.0,625.0,Bank Transfer,Completed
+ORD-00128,2025-10-07,CUST-1147,Greater Accra,In-store,Smartphone,Electronics,5,2800.0,0.0,14000.0,1950.0,9750.0,4250.0,Bank Transfer,Completed
+ORD-00129,2025-07-29,CUST-1053,Ashanti,In-store,Smartphone,Electronics,6,2800.0,0.1,15120.0,1950.0,11700.0,3420.0,Mobile Money,Completed
+ORD-00130,2025-08-20,CUST-1030,Central,In-store,Office Chair,Furniture,5,950.0,0.2,3800.0,590.0,2950.0,850.0,Mobile Money,Completed
+ORD-00131,2025-07-26,CUST-1034,Northern,In-store,Desk,Furniture,3,1250.0,0.05,3562.5,790.0,2370.0,1192.5,Card,Completed
+ORD-00132,2025-07-22,CUST-1198,Eastern,In-store,USB Drive,Accessories,4,95.0,0.15,323.0,42.0,168.0,155.0,Mobile Money,Completed
+ORD-00133,2025-02-03,CUST-1165,Greater Accra,In-store,Printer Paper,Stationery,4,120.0,0.0,480.0,68.0,272.0,208.0,Card,Completed
+ORD-00134,2025-07-24,CUST-1071,Ashanti,In-store,Printer Paper,Stationery,1,120.0,0.0,120.0,68.0,68.0,52.0,Mobile Money,Completed
+ORD-00135,2025-10-18,CUST-1185,Greater Accra,Online,Monitor,Electronics,6,1650.0,0.1,8910.0,1120.0,6720.0,2190.0,Mobile Money,Completed
+ORD-00136,2025-04-21,CUST-1174,Greater Accra,In-store,Office Chair,Furniture,1,950.0,0.1,855.0,590.0,590.0,265.0,Card,Completed
+ORD-00137,2025-08-09,CUST-1205,Western,In-store,Office Chair,Furniture,4,950.0,0.15,3230.0,590.0,2360.0,870.0,Mobile Money,Completed
+ORD-00138,2025-01-12,CUST-1228,Central,Online,Monitor,Electronics,6,1650.0,0.0,9900.0,1120.0,6720.0,3180.0,Bank Transfer,Completed
+ORD-00139,2025-05-07,CUST-1221,Central,In-store,Headphones,Electronics,1,450.0,0.1,405.0,230.0,230.0,175.0,Mobile Money,Completed
+ORD-00140,2025-06-09,CUST-1046,Eastern,In-store,Printer Paper,Stationery,8,120.0,0.0,960.0,68.0,544.0,416.0,Card,Completed
+ORD-00141,2025-12-25,CUST-1193,Central,In-store,Backpack,Accessories,4,320.0,0.0,1280.0,155.0,620.0,660.0,Mobile Money,Completed
+ORD-00142,2025-03-20,CUST-1099,Central,In-store,Laptop,Electronics,1,4200.0,0.0,4200.0,3000.0,3000.0,1200.0,Bank Transfer,Completed
+ORD-00143,2025-04-11,CUST-1101,Greater Accra,Online,Desk,Furniture,6,1250.0,0.2,6000.0,790.0,4740.0,1260.0,Bank Transfer,Completed
+ORD-00144,2025-05-30,CUST-1162,Greater Accra,In-store,Smartphone,Electronics,5,2800.0,0.0,14000.0,1950.0,9750.0,4250.0,Mobile Money,Completed
+ORD-00145,2025-12-29,CUST-1151,Western,In-store,Smartphone,Electronics,6,2800.0,0.15,14280.0,1950.0,11700.0,2580.0,Card,Completed
+ORD-00146,2025-11-08,CUST-1105,Eastern,Phone,Desk,Furniture,7,1250.0,0.1,7875.0,790.0,5530.0,2345.0,Mobile Money,Completed
+ORD-00147,2025-01-13,CUST-1250,Greater Accra,Phone,Headphones,Electronics,4,450.0,0.1,1620.0,230.0,920.0,700.0,Card,Completed
+ORD-00148,2025-03-27,CUST-1044,Ashanti,In-store,Backpack,Accessories,7,320.0,0.1,2016.0,155.0,1085.0,931.0,Mobile Money,Completed
+ORD-00149,2025-10-27,CUST-1025,Western,In-store,USB Drive,Accessories,3,95.0,0.15,242.25,42.0,126.0,116.25,Card,Completed
+ORD-00150,2025-01-22,CUST-1008,Greater Accra,Online,Backpack,Accessories,5,320.0,0.0,1600.0,155.0,775.0,825.0,Mobile Money,Completed
+ORD-00151,2025-11-09,CUST-1204,Ashanti,Online,Headphones,Electronics,2,450.0,0.0,900.0,230.0,460.0,440.0,Cash,Completed
+ORD-00152,2025-04-13,CUST-1102,Eastern,Online,Headphones,Electronics,5,450.0,0.05,2137.5,230.0,1150.0,987.5,Card,Returned
+ORD-00153,2025-12-01,CUST-1110,Western,In-store,Headphones,Electronics,3,450.0,0.0,1350.0,230.0,690.0,660.0,Card,Completed
+ORD-00154,2025-04-18,CUST-1163,Greater Accra,In-store,Smartphone,Electronics,6,2800.0,0.0,16800.0,1950.0,11700.0,5100.0,Mobile Money,Completed
+ORD-00155,2025-06-08,CUST-1109,Eastern,In-store,Monitor,Electronics,7,1650.0,0.0,11550.0,1120.0,7840.0,3710.0,Mobile Money,Completed
+ORD-00156,2025-08-30,CUST-1144,Ashanti,Phone,Office Chair,Furniture,7,950.0,0.0,6650.0,590.0,4130.0,2520.0,Mobile Money,Completed
+ORD-00157,2025-02-16,CUST-1015,Eastern,Phone,Smartphone,Electronics,8,2800.0,0.0,22400.0,1950.0,15600.0,6800.0,Cash,Completed
+ORD-00158,2025-07-23,CUST-1040,Greater Accra,In-store,USB Drive,Accessories,1,95.0,0.0,95.0,42.0,42.0,53.0,Bank Transfer,Returned
+ORD-00159,2025-07-04,CUST-1234,Western,Online,Office Chair,Furniture,2,950.0,0.15,1615.0,590.0,1180.0,435.0,Mobile Money,Completed
+ORD-00160,2025-10-14,CUST-1113,Ashanti,In-store,Laptop,Electronics,8,4200.0,0.0,33600.0,3000.0,24000.0,9600.0,Bank Transfer,Completed
+ORD-00161,2025-12-30,CUST-1042,Greater Accra,Online,Smartphone,Electronics,4,2800.0,0.2,8960.0,1950.0,7800.0,1160.0,Card,Completed
+ORD-00162,2025-08-31,CUST-1093,Eastern,Phone,Notebook Pack,Stationery,1,65.0,0.2,52.0,28.0,28.0,24.0,Mobile Money,Completed
+ORD-00163,2025-05-30,CUST-1084,Greater Accra,In-store,Backpack,Accessories,3,320.0,0.0,960.0,155.0,465.0,495.0,Card,Completed
+ORD-00164,2025-05-29,CUST-1069,Greater Accra,In-store,Smartphone,Electronics,7,2800.0,0.1,17640.0,1950.0,13650.0,3990.0,Mobile Money,Completed
+ORD-00165,2025-06-02,CUST-1074,Ashanti,Online,Monitor,Electronics,3,1650.0,0.1,4455.0,1120.0,3360.0,1095.0,Mobile Money,Completed
+ORD-00166,2025-10-25,CUST-1183,Central,In-store,USB Drive,Accessories,1,95.0,0.1,85.5,42.0,42.0,43.5,Bank Transfer,Completed
+ORD-00167,2025-04-28,CUST-1027,Central,Online,USB Drive,Accessories,6,95.0,0.0,570.0,42.0,252.0,318.0,Mobile Money,Completed
+ORD-00168,2025-03-02,CUST-1078,Northern,In-store,Smartphone,Electronics,2,2800.0,0.0,5600.0,1950.0,3900.0,1700.0,Cash,Completed
+ORD-00169,2025-05-03,CUST-1117,Greater Accra,Phone,Laptop,Electronics,3,4200.0,0.0,12600.0,3000.0,9000.0,3600.0,Card,Completed
+ORD-00170,2025-01-09,CUST-1136,Ashanti,In-store,USB Drive,Accessories,1,95.0,0.1,85.5,42.0,42.0,43.5,Bank Transfer,Completed
+ORD-00171,2025-02-08,CUST-1221,Greater Accra,In-store,Headphones,Electronics,5,450.0,0.2,1800.0,230.0,1150.0,650.0,Card,Completed
+ORD-00172,2025-02-02,CUST-1231,Western,In-store,Notebook Pack,Stationery,4,65.0,0.1,234.0,28.0,112.0,122.0,Cash,Completed
+ORD-00173,2025-10-09,CUST-1075,Northern,In-store,Backpack,Accessories,7,320.0,0.1,2016.0,155.0,1085.0,931.0,Mobile Money,Completed
+ORD-00174,2025-09-21,CUST-1135,Central,In-store,Smartphone,Electronics,3,2800.0,0.2,6720.0,1950.0,5850.0,870.0,Card,Completed
+ORD-00175,2025-09-12,CUST-1006,Western,Online,Backpack,Accessories,2,320.0,0.1,576.0,155.0,310.0,266.0,Card,Completed
+ORD-00176,2025-06-18,CUST-1155,Ashanti,In-store,Monitor,Electronics,2,1650.0,0.0,3300.0,1120.0,2240.0,1060.0,Cash,Completed
+ORD-00177,2025-09-19,CUST-1039,Northern,In-store,Printer Paper,Stationery,2,120.0,0.15,204.0,68.0,136.0,68.0,Mobile Money,Completed
+ORD-00178,2025-02-28,CUST-1019,Ashanti,In-store,Office Chair,Furniture,4,950.0,0.0,3800.0,590.0,2360.0,1440.0,Card,Completed
+ORD-00179,2025-11-25,CUST-1168,Greater Accra,In-store,USB Drive,Accessories,1,95.0,0.0,95.0,42.0,42.0,53.0,Bank Transfer,Completed
+ORD-00180,2025-07-02,CUST-1045,Ashanti,Phone,Notebook Pack,Stationery,4,65.0,0.05,247.0,28.0,112.0,135.0,Mobile Money,Completed
+ORD-00181,2025-12-09,CUST-1120,Greater Accra,Phone,Backpack,Accessories,7,320.0,0.15,1904.0,155.0,1085.0,819.0,Cash,Completed
+ORD-00182,2025-02-25,CUST-1026,Greater Accra,In-store,Backpack,Accessories,7,320.0,0.0,2240.0,155.0,1085.0,1155.0,Mobile Money,Completed
+ORD-00183,2025-07-01,CUST-1187,Greater Accra,Online,Backpack,Accessories,6,320.0,0.05,1824.0,155.0,930.0,894.0,Mobile Money,Completed
+ORD-00184,2025-09-12,CUST-1192,Ashanti,Online,Headphones,Electronics,8,450.0,0.0,3600.0,230.0,1840.0,1760.0,Card,Completed
+ORD-00185,2025-06-30,CUST-1144,Western,Phone,Smartphone,Electronics,7,2800.0,0.0,19600.0,1950.0,13650.0,5950.0,Card,Completed
+ORD-00186,2025-06-12,CUST-1209,Ashanti,In-store,Headphones,Electronics,6,450.0,0.0,2700.0,230.0,1380.0,1320.0,Mobile Money,Completed
+ORD-00187,2025-03-02,CUST-1110,Ashanti,In-store,Desk,Furniture,7,1250.0,0.1,7875.0,790.0,5530.0,2345.0,Mobile Money,Returned
+ORD-00188,2025-05-20,CUST-1047,Northern,In-store,Desk,Furniture,1,1250.0,0.15,1062.5,790.0,790.0,272.5,Mobile Money,Completed
+ORD-00189,2025-03-29,CUST-1038,Central,Phone,Notebook Pack,Stationery,7,65.0,0.0,455.0,28.0,196.0,259.0,Bank Transfer,Completed
+ORD-00190,2025-04-21,CUST-1055,Ashanti,Online,Office Chair,Furniture,3,950.0,0.0,2850.0,590.0,1770.0,1080.0,Cash,Completed
+ORD-00191,2025-09-07,CUST-1051,Greater Accra,Online,Backpack,Accessories,6,320.0,0.0,1920.0,155.0,930.0,990.0,Card,Completed
+ORD-00192,2025-08-19,CUST-1081,Eastern,In-store,Monitor,Electronics,8,1650.0,0.0,13200.0,1120.0,8960.0,4240.0,Mobile Money,Completed
+ORD-00193,2025-08-10,CUST-1054,Greater Accra,Online,Headphones,Electronics,4,450.0,0.05,1710.0,230.0,920.0,790.0,Card,Completed
+ORD-00194,2025-05-13,CUST-1148,Greater Accra,Phone,Printer Paper,Stationery,1,120.0,0.1,108.0,68.0,68.0,40.0,Bank Transfer,Completed
+ORD-00195,2025-12-17,CUST-1038,Eastern,In-store,Printer Paper,Stationery,3,120.0,0.1,324.0,68.0,204.0,120.0,Bank Transfer,Completed
+ORD-00196,2025-02-01,CUST-1156,Ashanti,Online,Notebook Pack,Stationery,4,65.0,0.0,260.0,28.0,112.0,148.0,Mobile Money,Completed
+ORD-00197,2025-05-06,CUST-1084,Central,In-store,Smartphone,Electronics,8,2800.0,0.05,21280.0,1950.0,15600.0,5680.0,Mobile Money,Completed
+ORD-00198,2025-02-13,CUST-1172,Western,Online,Backpack,Accessories,8,320.0,0.0,2560.0,155.0,1240.0,1320.0,Cash,Completed
+ORD-00199,2025-05-04,CUST-1129,Western,Online,Monitor,Electronics,5,1650.0,0.0,8250.0,1120.0,5600.0,2650.0,Bank Transfer,Completed
+ORD-00200,2025-12-18,CUST-1227,Greater Accra,Online,Printer Paper,Stationery,8,120.0,0.15,816.0,68.0,544.0,272.0,Mobile Money,Completed
+ORD-00201,2025-05-14,CUST-1110,Greater Accra,Phone,Monitor,Electronics,4,1650.0,0.1,5940.0,1120.0,4480.0,1460.0,Bank Transfer,Completed
+ORD-00202,2025-11-28,CUST-1074,Greater Accra,In-store,Monitor,Electronics,4,1650.0,0.15,5610.0,1120.0,4480.0,1130.0,Mobile Money,Completed
+ORD-00203,2025-06-30,CUST-1148,Greater Accra,In-store,Headphones,Electronics,7,450.0,0.15,2677.5,230.0,1610.0,1067.5,Mobile Money,Returned
+ORD-00204,2025-09-13,CUST-1165,Eastern,In-store,Notebook Pack,Stationery,6,65.0,0.1,351.0,28.0,168.0,183.0,Bank Transfer,Completed
+ORD-00205,2025-06-16,CUST-1110,Greater Accra,In-store,Desk,Furniture,5,1250.0,0.15,5312.5,790.0,3950.0,1362.5,Card,Completed
+ORD-00206,2025-04-08,CUST-1140,Western,In-store,Monitor,Electronics,4,1650.0,0.05,6270.0,1120.0,4480.0,1790.0,Card,Completed
+ORD-00207,2025-10-06,CUST-1118,Central,In-store,Laptop,Electronics,6,4200.0,0.0,25200.0,3000.0,18000.0,7200.0,Cash,Completed
+ORD-00208,2025-12-20,CUST-1077,Central,In-store,Office Chair,Furniture,7,950.0,0.0,6650.0,590.0,4130.0,2520.0,Bank Transfer,Completed
+ORD-00209,2025-04-07,CUST-1079,Ashanti,In-store,USB Drive,Accessories,4,95.0,0.0,380.0,42.0,168.0,212.0,Mobile Money,Completed
+ORD-00210,2025-10-12,CUST-1227,Ashanti,In-store,Headphones,Electronics,1,450.0,0.0,450.0,230.0,230.0,220.0,Card,Completed
+ORD-00211,2025-04-06,CUST-1169,Northern,Online,Backpack,Accessories,1,320.0,0.0,320.0,155.0,155.0,165.0,Bank Transfer,Completed
+ORD-00212,2025-09-19,CUST-1024,Western,In-store,Office Chair,Furniture,2,950.0,0.1,1710.0,590.0,1180.0,530.0,Card,Completed
+ORD-00213,2025-10-15,CUST-1241,Eastern,Online,Monitor,Electronics,4,1650.0,0.1,5940.0,1120.0,4480.0,1460.0,Cash,Completed
+ORD-00214,2025-06-14,CUST-1179,Eastern,Phone,USB Drive,Accessories,5,95.0,0.05,451.25,42.0,210.0,241.25,Bank Transfer,Completed
+ORD-00215,2025-09-26,CUST-1013,Central,Online,Headphones,Electronics,7,450.0,0.0,3150.0,230.0,1610.0,1540.0,Mobile Money,Completed
+ORD-00216,2025-04-10,CUST-1182,Greater Accra,In-store,Backpack,Accessories,2,320.0,0.1,576.0,155.0,310.0,266.0,Mobile Money,Completed
+ORD-00217,2025-01-29,CUST-1148,Western,In-store,Headphones,Electronics,7,450.0,0.0,3150.0,230.0,1610.0,1540.0,Bank Transfer,Completed
+ORD-00218,2025-02-05,CUST-1229,Greater Accra,Online,Notebook Pack,Stationery,6,65.0,0.0,390.0,28.0,168.0,222.0,Cash,Completed
+ORD-00219,2025-06-13,CUST-1123,Western,Online,Printer Paper,Stationery,1,120.0,0.0,120.0,68.0,68.0,52.0,Mobile Money,Completed
+ORD-00220,2025-11-26,CUST-1130,Northern,In-store,Backpack,Accessories,3,320.0,0.0,960.0,155.0,465.0,495.0,Mobile Money,Completed
+ORD-00221,2025-02-16,CUST-1079,Ashanti,In-store,Laptop,Electronics,3,4200.0,0.0,12600.0,3000.0,9000.0,3600.0,Bank Transfer,Completed
+ORD-00222,2025-06-16,CUST-1081,Ashanti,Online,Smartphone,Electronics,8,2800.0,0.1,20160.0,1950.0,15600.0,4560.0,Mobile Money,Completed
+ORD-00223,2025-09-14,CUST-1155,Greater Accra,In-store,Printer Paper,Stationery,8,120.0,0.1,864.0,68.0,544.0,320.0,Mobile Money,Completed
+ORD-00224,2025-03-15,CUST-1207,Northern,Online,Notebook Pack,Stationery,7,65.0,0.1,409.5,28.0,196.0,213.5,Cash,Completed
+ORD-00225,2025-09-21,CUST-1223,Greater Accra,In-store,Desk,Furniture,5,1250.0,0.0,6250.0,790.0,3950.0,2300.0,Bank Transfer,Completed
+ORD-00226,2025-04-22,CUST-1193,Greater Accra,In-store,Laptop,Electronics,4,4200.0,0.1,15120.0,3000.0,12000.0,3120.0,Cash,Completed
+ORD-00227,2025-10-23,CUST-1153,Greater Accra,Online,Headphones,Electronics,3,450.0,0.1,1215.0,230.0,690.0,525.0,Card,Completed
+ORD-00228,2025-07-31,CUST-1126,Greater Accra,In-store,USB Drive,Accessories,7,95.0,0.0,665.0,42.0,294.0,371.0,Mobile Money,Completed
+ORD-00229,2025-07-19,CUST-1085,Ashanti,Online,Laptop,Electronics,1,4200.0,0.1,3780.0,3000.0,3000.0,780.0,Cash,Completed
+ORD-00230,2025-03-06,CUST-1192,Ashanti,In-store,Office Chair,Furniture,3,950.0,0.05,2707.5,590.0,1770.0,937.5,Mobile Money,Completed
+ORD-00231,2025-06-19,CUST-1080,Greater Accra,In-store,Monitor,Electronics,2,1650.0,0.05,3135.0,1120.0,2240.0,895.0,Mobile Money,Completed
+ORD-00232,2025-11-09,CUST-1067,Greater Accra,Phone,Laptop,Electronics,4,4200.0,0.0,16800.0,3000.0,12000.0,4800.0,Cash,Completed
+ORD-00233,2025-01-08,CUST-1217,Greater Accra,In-store,Backpack,Accessories,3,320.0,0.05,912.0,155.0,465.0,447.0,Bank Transfer,Completed
+ORD-00234,2025-10-04,CUST-1148,Ashanti,In-store,Headphones,Electronics,2,450.0,0.0,900.0,230.0,460.0,440.0,Cash,Completed
+ORD-00235,2025-06-29,CUST-1089,Greater Accra,Phone,USB Drive,Accessories,4,95.0,0.0,380.0,42.0,168.0,212.0,Mobile Money,Completed
+ORD-00236,2025-09-20,CUST-1217,Central,Online,Backpack,Accessories,7,320.0,0.0,2240.0,155.0,1085.0,1155.0,Cash,Returned
+ORD-00237,2025-08-31,CUST-1241,Greater Accra,Online,USB Drive,Accessories,5,95.0,0.2,380.0,42.0,210.0,170.0,Card,Completed
+ORD-00238,2025-06-07,CUST-1080,Greater Accra,In-store,Smartphone,Electronics,7,2800.0,0.0,19600.0,1950.0,13650.0,5950.0,Card,Completed
+ORD-00239,2025-04-23,CUST-1131,Ashanti,In-store,Notebook Pack,Stationery,8,65.0,0.0,520.0,28.0,224.0,296.0,Cash,Completed
+ORD-00240,2025-08-17,CUST-1121,Ashanti,Online,Backpack,Accessories,8,320.0,0.0,2560.0,155.0,1240.0,1320.0,Mobile Money,Completed
+ORD-00241,2025-02-21,CUST-1176,Greater Accra,In-store,Headphones,Electronics,3,450.0,0.15,1147.5,230.0,690.0,457.5,Bank Transfer,Completed
+ORD-00242,2025-08-02,CUST-1238,Greater Accra,In-store,Headphones,Electronics,8,450.0,0.05,3420.0,230.0,1840.0,1580.0,Card,Completed
+ORD-00243,2025-02-04,CUST-1138,Eastern,Online,Laptop,Electronics,8,4200.0,0.15,28560.0,3000.0,24000.0,4560.0,Bank Transfer,Completed
+ORD-00244,2025-08-26,CUST-1200,Greater Accra,In-store,Monitor,Electronics,8,1650.0,0.0,13200.0,1120.0,8960.0,4240.0,Cash,Completed
+ORD-00245,2025-08-18,CUST-1149,Ashanti,In-store,Printer Paper,Stationery,3,120.0,0.0,360.0,68.0,204.0,156.0,Bank Transfer,Completed
+ORD-00246,2025-01-31,CUST-1222,Ashanti,In-store,Notebook Pack,Stationery,2,65.0,0.05,123.5,28.0,56.0,67.5,Mobile Money,Completed
+ORD-00247,2025-10-04,CUST-1102,Greater Accra,In-store,Backpack,Accessories,5,320.0,0.0,1600.0,155.0,775.0,825.0,Mobile Money,Completed
+ORD-00248,2025-06-01,CUST-1097,Ashanti,Online,Notebook Pack,Stationery,8,65.0,0.1,468.0,28.0,224.0,244.0,Cash,Completed
+ORD-00249,2025-10-15,CUST-1106,Central,Phone,Desk,Furniture,8,1250.0,0.15,8500.0,790.0,6320.0,2180.0,Cash,Completed
+ORD-00250,2025-01-16,CUST-1250,Eastern,In-store,Office Chair,Furniture,5,950.0,0.05,4512.5,590.0,2950.0,1562.5,Cash,Completed
+ORD-00251,2025-03-07,CUST-1153,Greater Accra,In-store,Printer Paper,Stationery,2,120.0,0.2,192.0,68.0,136.0,56.0,Mobile Money,Completed
+ORD-00252,2025-06-30,CUST-1039,Greater Accra,Online,Smartphone,Electronics,4,2800.0,0.05,10640.0,1950.0,7800.0,2840.0,Mobile Money,Completed
+ORD-00253,2025-03-10,CUST-1011,Greater Accra,In-store,USB Drive,Accessories,6,95.0,0.0,570.0,42.0,252.0,318.0,Bank Transfer,Completed
+ORD-00254,2025-05-01,CUST-1130,Ashanti,Online,Backpack,Accessories,5,320.0,0.05,1520.0,155.0,775.0,745.0,Bank Transfer,Completed
+ORD-00255,2025-08-30,CUST-1202,Western,Phone,Headphones,Electronics,3,450.0,0.0,1350.0,230.0,690.0,660.0,Mobile Money,Completed
+ORD-00256,2025-02-22,CUST-1120,Greater Accra,Online,Notebook Pack,Stationery,3,65.0,0.1,175.5,28.0,84.0,91.5,Card,Completed
+ORD-00257,2025-09-05,CUST-1141,Greater Accra,In-store,Smartphone,Electronics,1,2800.0,0.0,2800.0,1950.0,1950.0,850.0,Mobile Money,Completed
+ORD-00258,2025-02-07,CUST-1200,Northern,Phone,Monitor,Electronics,3,1650.0,0.0,4950.0,1120.0,3360.0,1590.0,Card,Completed
+ORD-00259,2025-03-05,CUST-1130,Greater Accra,In-store,USB Drive,Accessories,6,95.0,0.05,541.5,42.0,252.0,289.5,Mobile Money,Completed
+ORD-00260,2025-08-03,CUST-1228,Ashanti,Phone,Monitor,Electronics,2,1650.0,0.0,3300.0,1120.0,2240.0,1060.0,Mobile Money,Completed
+ORD-00261,2025-10-17,CUST-1160,Central,Online,Headphones,Electronics,8,450.0,0.0,3600.0,230.0,1840.0,1760.0,Mobile Money,Completed
+ORD-00262,2025-03-04,CUST-1183,Greater Accra,Online,Smartphone,Electronics,1,2800.0,0.1,2520.0,1950.0,1950.0,570.0,Cash,Completed
+ORD-00263,2025-04-20,CUST-1196,Greater Accra,Phone,Smartphone,Electronics,5,2800.0,0.0,14000.0,1950.0,9750.0,4250.0,Bank Transfer,Completed
+ORD-00264,2025-12-04,CUST-1157,Greater Accra,Online,Laptop,Electronics,4,4200.0,0.05,15960.0,3000.0,12000.0,3960.0,Cash,Completed
+ORD-00265,2025-12-28,CUST-1013,Northern,In-store,Smartphone,Electronics,7,2800.0,0.0,19600.0,1950.0,13650.0,5950.0,Card,Completed
+ORD-00266,2025-08-01,CUST-1107,Greater Accra,In-store,Laptop,Electronics,8,4200.0,0.0,33600.0,3000.0,24000.0,9600.0,Card,Completed
+ORD-00267,2025-06-13,CUST-1036,Greater Accra,Online,Monitor,Electronics,5,1650.0,0.0,8250.0,1120.0,5600.0,2650.0,Mobile Money,Completed
+ORD-00268,2025-05-07,CUST-1128,Greater Accra,Online,Laptop,Electronics,6,4200.0,0.1,22680.0,3000.0,18000.0,4680.0,Card,Completed
+ORD-00269,2025-08-12,CUST-1036,Greater Accra,In-store,Smartphone,Electronics,6,2800.0,0.2,13440.0,1950.0,11700.0,1740.0,Mobile Money,Completed
+ORD-00270,2025-08-04,CUST-1128,Western,Online,Backpack,Accessories,5,320.0,0.0,1600.0,155.0,775.0,825.0,Bank Transfer,Completed
+ORD-00271,2025-04-18,CUST-1086,Greater Accra,Online,Notebook Pack,Stationery,2,65.0,0.2,104.0,28.0,56.0,48.0,Bank Transfer,Completed
+ORD-00272,2025-01-09,CUST-1006,Western,In-store,Backpack,Accessories,4,320.0,0.05,1216.0,155.0,620.0,596.0,Cash,Completed
+ORD-00273,2025-02-25,CUST-1032,Western,In-store,Notebook Pack,Stationery,2,65.0,0.1,117.0,28.0,56.0,61.0,Mobile Money,Completed
+ORD-00274,2025-12-16,CUST-1126,Eastern,In-store,USB Drive,Accessories,4,95.0,0.1,342.0,42.0,168.0,174.0,Card,Returned
+ORD-00275,2025-06-02,CUST-1020,Greater Accra,In-store,Notebook Pack,Stationery,5,65.0,0.1,292.5,28.0,140.0,152.5,Mobile Money,Completed
+ORD-00276,2025-06-26,CUST-1214,Eastern,In-store,Notebook Pack,Stationery,2,65.0,0.1,117.0,28.0,56.0,61.0,Mobile Money,Completed
+ORD-00277,2025-06-20,CUST-1190,Western,In-store,Printer Paper,Stationery,2,120.0,0.05,228.0,68.0,136.0,92.0,Bank Transfer,Completed
+ORD-00278,2025-10-13,CUST-1178,Greater Accra,In-store,Office Chair,Furniture,7,950.0,0.05,6317.5,590.0,4130.0,2187.5,Card,Completed
+ORD-00279,2025-01-24,CUST-1044,Central,In-store,Headphones,Electronics,4,450.0,0.0,1800.0,230.0,920.0,880.0,Bank Transfer,Completed
+ORD-00280,2025-01-31,CUST-1199,Eastern,Online,Desk,Furniture,2,1250.0,0.0,2500.0,790.0,1580.0,920.0,Mobile Money,Completed
+ORD-00281,2025-04-11,CUST-1159,Greater Accra,In-store,Smartphone,Electronics,6,2800.0,0.1,15120.0,1950.0,11700.0,3420.0,Cash,Completed
+ORD-00282,2025-06-27,CUST-1098,Northern,Phone,Backpack,Accessories,6,320.0,0.0,1920.0,155.0,930.0,990.0,Cash,Completed
+ORD-00283,2025-09-02,CUST-1001,Ashanti,Phone,Headphones,Electronics,7,450.0,0.0,3150.0,230.0,1610.0,1540.0,Card,Completed
+ORD-00284,2025-06-29,CUST-1133,Western,Online,Smartphone,Electronics,7,2800.0,0.0,19600.0,1950.0,13650.0,5950.0,Cash,Completed
+ORD-00285,2025-06-11,CUST-1199,Northern,Phone,Headphones,Electronics,8,450.0,0.0,3600.0,230.0,1840.0,1760.0,Mobile Money,Completed
+ORD-00286,2025-12-09,CUST-1009,Ashanti,Phone,USB Drive,Accessories,5,95.0,0.1,427.5,42.0,210.0,217.5,Bank Transfer,Completed
+ORD-00287,2025-02-28,CUST-1014,Eastern,In-store,Headphones,Electronics,3,450.0,0.1,1215.0,230.0,690.0,525.0,Cash,Completed
+ORD-00288,2025-07-28,CUST-1096,Greater Accra,Online,Printer Paper,Stationery,7,120.0,0.05,798.0,68.0,476.0,322.0,Bank Transfer,Completed
+ORD-00289,2025-07-17,CUST-1128,Central,In-store,USB Drive,Accessories,3,95.0,0.0,285.0,42.0,126.0,159.0,Bank Transfer,Completed
+ORD-00290,2025-06-22,CUST-1119,Western,Online,Laptop,Electronics,3,4200.0,0.05,11970.0,3000.0,9000.0,2970.0,Card,Completed
+ORD-00291,2025-10-22,CUST-1107,Greater Accra,Online,Backpack,Accessories,7,320.0,0.0,2240.0,155.0,1085.0,1155.0,Bank Transfer,Completed
+ORD-00292,2025-04-08,CUST-1064,Ashanti,In-store,Headphones,Electronics,8,450.0,0.1,3240.0,230.0,1840.0,1400.0,Bank Transfer,Completed
+ORD-00293,2025-12-15,CUST-1015,Greater Accra,In-store,Smartphone,Electronics,3,2800.0,0.05,7980.0,1950.0,5850.0,2130.0,Mobile Money,Completed
+ORD-00294,2025-05-02,CUST-1008,Greater Accra,Phone,Printer Paper,Stationery,6,120.0,0.05,684.0,68.0,408.0,276.0,Mobile Money,Completed
+ORD-00295,2025-07-18,CUST-1025,Greater Accra,In-store,USB Drive,Accessories,8,95.0,0.05,722.0,42.0,336.0,386.0,Bank Transfer,Completed
+ORD-00296,2025-07-10,CUST-1173,Ashanti,In-store,Headphones,Electronics,7,450.0,0.2,2520.0,230.0,1610.0,910.0,Card,Completed
+ORD-00297,2025-11-07,CUST-1197,Greater Accra,In-store,Notebook Pack,Stationery,1,65.0,0.1,58.5,28.0,28.0,30.5,Card,Completed
+ORD-00298,2025-06-10,CUST-1109,Greater Accra,Online,Headphones,Electronics,6,450.0,0.05,2565.0,230.0,1380.0,1185.0,Cash,Completed
+ORD-00299,2025-04-14,CUST-1020,Central,Online,Notebook Pack,Stationery,2,65.0,0.05,123.5,28.0,56.0,67.5,Card,Completed
+ORD-00300,2025-01-08,CUST-1104,Central,Online,Notebook Pack,Stationery,7,65.0,0.0,455.0,28.0,196.0,259.0,Mobile Money,Completed
+ORD-00301,2025-05-13,CUST-1247,Central,In-store,Notebook Pack,Stationery,1,65.0,0.2,52.0,28.0,28.0,24.0,Card,Completed
+ORD-00302,2025-10-29,CUST-1063,Greater Accra,In-store,Notebook Pack,Stationery,8,65.0,0.0,520.0,28.0,224.0,296.0,Card,Completed
+ORD-00303,2025-01-04,CUST-1123,Eastern,In-store,Smartphone,Electronics,2,2800.0,0.0,5600.0,1950.0,3900.0,1700.0,Bank Transfer,Completed
+ORD-00304,2025-11-24,CUST-1135,Western,Online,Printer Paper,Stationery,4,120.0,0.2,384.0,68.0,272.0,112.0,Card,Completed
+ORD-00305,2025-07-18,CUST-1083,Greater Accra,Online,Printer Paper,Stationery,2,120.0,0.1,216.0,68.0,136.0,80.0,Card,Completed
+ORD-00306,2025-02-21,CUST-1110,Greater Accra,Online,Printer Paper,Stationery,7,120.0,0.0,840.0,68.0,476.0,364.0,Bank Transfer,Completed
+ORD-00307,2025-04-21,CUST-1118,Central,In-store,Laptop,Electronics,4,4200.0,0.0,16800.0,3000.0,12000.0,4800.0,Bank Transfer,Completed
+ORD-00308,2025-07-22,CUST-1119,Greater Accra,Online,Office Chair,Furniture,6,950.0,0.0,5700.0,590.0,3540.0,2160.0,Bank Transfer,Returned
+ORD-00309,2025-04-26,CUST-1180,Ashanti,In-store,Office Chair,Furniture,1,950.0,0.05,902.5,590.0,590.0,312.5,Mobile Money,Completed
+ORD-00310,2025-02-09,CUST-1146,Northern,Online,Laptop,Electronics,4,4200.0,0.0,16800.0,3000.0,12000.0,4800.0,Bank Transfer,Completed
+ORD-00311,2025-09-01,CUST-1014,Greater Accra,Online,Smartphone,Electronics,8,2800.0,0.15,19040.0,1950.0,15600.0,3440.0,Card,Completed
+ORD-00312,2025-09-03,CUST-1002,Greater Accra,Online,Office Chair,Furniture,8,950.0,0.15,6460.0,590.0,4720.0,1740.0,Mobile Money,Completed
+ORD-00313,2025-02-13,CUST-1103,Northern,Online,Backpack,Accessories,2,320.0,0.05,608.0,155.0,310.0,298.0,Card,Completed
+ORD-00314,2025-04-13,CUST-1227,Western,Phone,Headphones,Electronics,4,450.0,0.1,1620.0,230.0,920.0,700.0,Bank Transfer,Completed
+ORD-00315,2025-03-31,CUST-1010,Greater Accra,In-store,Backpack,Accessories,4,320.0,0.0,1280.0,155.0,620.0,660.0,Card,Completed
+ORD-00316,2025-08-29,CUST-1018,Eastern,In-store,Notebook Pack,Stationery,5,65.0,0.0,325.0,28.0,140.0,185.0,Bank Transfer,Completed
+ORD-00317,2025-09-24,CUST-1170,Eastern,In-store,Backpack,Accessories,5,320.0,0.1,1440.0,155.0,775.0,665.0,Mobile Money,Completed
+ORD-00318,2025-09-23,CUST-1113,Ashanti,Online,Desk,Furniture,1,1250.0,0.0,1250.0,790.0,790.0,460.0,Mobile Money,Completed
+ORD-00319,2025-12-09,CUST-1058,Western,Online,Desk,Furniture,7,1250.0,0.0,8750.0,790.0,5530.0,3220.0,Mobile Money,Completed
+ORD-00320,2025-10-08,CUST-1052,Greater Accra,Online,Notebook Pack,Stationery,2,65.0,0.0,130.0,28.0,56.0,74.0,Card,Returned
+ORD-00321,2025-04-28,CUST-1167,Greater Accra,Online,Monitor,Electronics,3,1650.0,0.0,4950.0,1120.0,3360.0,1590.0,Bank Transfer,Completed
+ORD-00322,2025-02-09,CUST-1131,Western,In-store,Desk,Furniture,7,1250.0,0.05,8312.5,790.0,5530.0,2782.5,Bank Transfer,Returned
+ORD-00323,2025-08-13,CUST-1160,Greater Accra,Online,Notebook Pack,Stationery,6,65.0,0.1,351.0,28.0,168.0,183.0,Bank Transfer,Completed
+ORD-00324,2025-12-01,CUST-1071,Western,Online,Notebook Pack,Stationery,4,65.0,0.1,234.0,28.0,112.0,122.0,Mobile Money,Completed
+ORD-00325,2025-12-22,CUST-1132,Eastern,In-store,Printer Paper,Stationery,8,120.0,0.1,864.0,68.0,544.0,320.0,Mobile Money,Completed
+ORD-00326,2025-03-26,CUST-1216,Greater Accra,In-store,Laptop,Electronics,4,4200.0,0.15,14280.0,3000.0,12000.0,2280.0,Mobile Money,Completed
+ORD-00327,2025-03-28,CUST-1080,Western,In-store,Desk,Furniture,5,1250.0,0.05,5937.5,790.0,3950.0,1987.5,Bank Transfer,Completed
+ORD-00328,2025-01-14,CUST-1100,Greater Accra,In-store,Desk,Furniture,2,1250.0,0.15,2125.0,790.0,1580.0,545.0,Mobile Money,Completed
+ORD-00329,2025-02-21,CUST-1041,Eastern,Online,Monitor,Electronics,2,1650.0,0.05,3135.0,1120.0,2240.0,895.0,Card,Completed
+ORD-00330,2025-07-22,CUST-1160,Greater Accra,Phone,Desk,Furniture,4,1250.0,0.0,5000.0,790.0,3160.0,1840.0,Bank Transfer,Completed
+ORD-00331,2025-07-19,CUST-1009,Western,Online,Desk,Furniture,5,1250.0,0.2,5000.0,790.0,3950.0,1050.0,Card,Completed
+ORD-00332,2025-05-16,CUST-1063,Ashanti,In-store,Monitor,Electronics,7,1650.0,0.0,11550.0,1120.0,7840.0,3710.0,Mobile Money,Completed
+ORD-00333,2025-04-24,CUST-1179,Ashanti,Online,Desk,Furniture,4,1250.0,0.0,5000.0,790.0,3160.0,1840.0,Mobile Money,Completed
+ORD-00334,2025-10-30,CUST-1005,Western,Online,Smartphone,Electronics,8,2800.0,0.0,22400.0,1950.0,15600.0,6800.0,Card,Returned
+ORD-00335,2025-06-17,CUST-1248,Central,In-store,Smartphone,Electronics,5,2800.0,0.0,14000.0,1950.0,9750.0,4250.0,Card,Completed
+ORD-00336,2025-10-23,CUST-1102,Western,Online,Laptop,Electronics,1,4200.0,0.0,4200.0,3000.0,3000.0,1200.0,Mobile Money,Completed
+ORD-00337,2025-12-18,CUST-1100,Central,In-store,Laptop,Electronics,6,4200.0,0.05,23940.0,3000.0,18000.0,5940.0,Cash,Completed
+ORD-00338,2025-04-26,CUST-1135,Northern,In-store,Office Chair,Furniture,5,950.0,0.15,4037.5,590.0,2950.0,1087.5,Card,Completed
+ORD-00339,2025-03-15,CUST-1160,Ashanti,In-store,Backpack,Accessories,4,320.0,0.0,1280.0,155.0,620.0,660.0,Card,Returned
+ORD-00340,2025-12-14,CUST-1115,Ashanti,In-store,Printer Paper,Stationery,4,120.0,0.05,456.0,68.0,272.0,184.0,Mobile Money,Completed
+ORD-00341,2025-08-20,CUST-1222,Greater Accra,Phone,Laptop,Electronics,3,4200.0,0.0,12600.0,3000.0,9000.0,3600.0,Mobile Money,Completed
+ORD-00342,2025-04-17,CUST-1241,Central,In-store,Notebook Pack,Stationery,5,65.0,0.15,276.25,28.0,140.0,136.25,Mobile Money,Returned
+ORD-00343,2025-08-15,CUST-1051,Ashanti,In-store,Smartphone,Electronics,5,2800.0,0.0,14000.0,1950.0,9750.0,4250.0,Mobile Money,Completed
+ORD-00344,2025-07-07,CUST-1177,Ashanti,In-store,Monitor,Electronics,4,1650.0,0.0,6600.0,1120.0,4480.0,2120.0,Card,Completed
+ORD-00345,2025-11-27,CUST-1076,Greater Accra,In-store,Smartphone,Electronics,3,2800.0,0.05,7980.0,1950.0,5850.0,2130.0,Card,Completed
+ORD-00346,2025-04-04,CUST-1249,Eastern,In-store,Notebook Pack,Stationery,4,65.0,0.1,234.0,28.0,112.0,122.0,Cash,Completed
+ORD-00347,2025-12-28,CUST-1064,Ashanti,In-store,Headphones,Electronics,4,450.0,0.1,1620.0,230.0,920.0,700.0,Cash,Completed
+ORD-00348,2025-12-08,CUST-1074,Western,Online,Printer Paper,Stationery,4,120.0,0.05,456.0,68.0,272.0,184.0,Mobile Money,Completed
+ORD-00349,2025-03-07,CUST-1179,Greater Accra,In-store,Office Chair,Furniture,3,950.0,0.1,2565.0,590.0,1770.0,795.0,Mobile Money,Completed
+ORD-00350,2025-03-02,CUST-1198,Northern,Online,Backpack,Accessories,5,320.0,0.0,1600.0,155.0,775.0,825.0,Bank Transfer,Returned
+ORD-00351,2025-07-14,CUST-1033,Greater Accra,In-store,Headphones,Electronics,2,450.0,0.0,900.0,230.0,460.0,440.0,Cash,Returned
+ORD-00352,2025-01-17,CUST-1139,Greater Accra,Online,USB Drive,Accessories,5,95.0,0.0,475.0,42.0,210.0,265.0,Cash,Completed
+ORD-00353,2025-04-20,CUST-1087,Eastern,Online,Desk,Furniture,1,1250.0,0.0,1250.0,790.0,790.0,460.0,Mobile Money,Completed
+ORD-00354,2025-06-08,CUST-1153,Northern,In-store,Backpack,Accessories,4,320.0,0.0,1280.0,155.0,620.0,660.0,Mobile Money,Completed
+ORD-00355,2025-12-20,CUST-1140,Greater Accra,In-store,USB Drive,Accessories,7,95.0,0.05,631.75,42.0,294.0,337.75,Mobile Money,Completed
+ORD-00356,2025-12-29,CUST-1247,Ashanti,Phone,Monitor,Electronics,7,1650.0,0.0,11550.0,1120.0,7840.0,3710.0,Bank Transfer,Completed
+ORD-00357,2025-02-25,CUST-1234,Central,Online,Smartphone,Electronics,6,2800.0,0.05,15960.0,1950.0,11700.0,4260.0,Card,Completed
+ORD-00358,2025-11-22,CUST-1164,Eastern,Online,Headphones,Electronics,6,450.0,0.05,2565.0,230.0,1380.0,1185.0,Card,Completed
+ORD-00359,2025-02-03,CUST-1170,Ashanti,In-store,Headphones,Electronics,1,450.0,0.1,405.0,230.0,230.0,175.0,Card,Completed
+ORD-00360,2025-10-01,CUST-1225,Ashanti,In-store,Headphones,Electronics,3,450.0,0.1,1215.0,230.0,690.0,525.0,Mobile Money,Completed
+ORD-00361,2025-11-05,CUST-1046,Central,Online,Notebook Pack,Stationery,6,65.0,0.0,390.0,28.0,168.0,222.0,Card,Completed
+ORD-00362,2025-11-22,CUST-1182,Central,Phone,Monitor,Electronics,7,1650.0,0.0,11550.0,1120.0,7840.0,3710.0,Mobile Money,Completed
+ORD-00363,2025-03-23,CUST-1194,Central,In-store,Monitor,Electronics,5,1650.0,0.05,7837.5,1120.0,5600.0,2237.5,Card,Completed
+ORD-00364,2025-11-23,CUST-1032,Western,Online,Notebook Pack,Stationery,7,65.0,0.05,432.25,28.0,196.0,236.25,Bank Transfer,Completed
+ORD-00365,2025-02-12,CUST-1221,Greater Accra,Online,Notebook Pack,Stationery,3,65.0,0.0,195.0,28.0,84.0,111.0,Card,Completed
+ORD-00366,2025-07-09,CUST-1175,Eastern,In-store,USB Drive,Accessories,2,95.0,0.0,190.0,42.0,84.0,106.0,Mobile Money,Completed
+ORD-00367,2025-06-21,CUST-1087,Eastern,In-store,Monitor,Electronics,1,1650.0,0.1,1485.0,1120.0,1120.0,365.0,Bank Transfer,Completed
+ORD-00368,2025-04-26,CUST-1122,Central,In-store,Smartphone,Electronics,5,2800.0,0.1,12600.0,1950.0,9750.0,2850.0,Bank Transfer,Completed
+ORD-00369,2025-01-09,CUST-1123,Greater Accra,In-store,Notebook Pack,Stationery,6,65.0,0.0,390.0,28.0,168.0,222.0,Mobile Money,Completed
+ORD-00370,2025-10-09,CUST-1230,Greater Accra,Online,USB Drive,Accessories,3,95.0,0.05,270.75,42.0,126.0,144.75,Mobile Money,Completed
+ORD-00371,2025-05-03,CUST-1243,Central,In-store,Headphones,Electronics,7,450.0,0.15,2677.5,230.0,1610.0,1067.5,Card,Completed
+ORD-00372,2025-08-30,CUST-1202,Greater Accra,In-store,Office Chair,Furniture,6,950.0,0.0,5700.0,590.0,3540.0,2160.0,Mobile Money,Completed
+ORD-00373,2025-05-30,CUST-1164,Northern,Online,Monitor,Electronics,3,1650.0,0.15,4207.5,1120.0,3360.0,847.5,Mobile Money,Completed
+ORD-00374,2025-05-17,CUST-1027,Ashanti,Online,Monitor,Electronics,2,1650.0,0.0,3300.0,1120.0,2240.0,1060.0,Mobile Money,Completed
+ORD-00375,2025-11-20,CUST-1229,Central,Online,USB Drive,Accessories,6,95.0,0.05,541.5,42.0,252.0,289.5,Mobile Money,Completed
+ORD-00376,2025-02-04,CUST-1034,Eastern,Online,Backpack,Accessories,6,320.0,0.05,1824.0,155.0,930.0,894.0,Card,Completed
+ORD-00377,2025-09-26,CUST-1042,Ashanti,In-store,Headphones,Electronics,2,450.0,0.0,900.0,230.0,460.0,440.0,Card,Completed
+ORD-00378,2025-09-30,CUST-1018,Greater Accra,Online,Headphones,Electronics,3,450.0,0.15,1147.5,230.0,690.0,457.5,Mobile Money,Completed
+ORD-00379,2025-05-19,CUST-1237,Western,In-store,Notebook Pack,Stationery,4,65.0,0.05,247.0,28.0,112.0,135.0,Bank Transfer,Completed
+ORD-00380,2025-04-06,CUST-1124,Western,In-store,Notebook Pack,Stationery,5,65.0,0.2,260.0,28.0,140.0,120.0,Mobile Money,Completed
+ORD-00381,2025-01-02,CUST-1059,Ashanti,In-store,Desk,Furniture,2,1250.0,0.0,2500.0,790.0,1580.0,920.0,Mobile Money,Completed
+ORD-00382,2025-12-08,CUST-1021,Western,Online,Notebook Pack,Stationery,8,65.0,0.15,442.0,28.0,224.0,218.0,Mobile Money,Completed
+ORD-00383,2025-12-12,CUST-1103,Northern,Online,Office Chair,Furniture,4,950.0,0.15,3230.0,590.0,2360.0,870.0,Bank Transfer,Completed
+ORD-00384,2025-03-29,CUST-1181,Ashanti,In-store,Backpack,Accessories,4,320.0,0.05,1216.0,155.0,620.0,596.0,Cash,Completed
+ORD-00385,2025-01-12,CUST-1249,Greater Accra,Phone,Headphones,Electronics,1,450.0,0.0,450.0,230.0,230.0,220.0,Card,Returned
+ORD-00386,2025-02-14,CUST-1139,Ashanti,Online,Headphones,Electronics,8,450.0,0.1,3240.0,230.0,1840.0,1400.0,Mobile Money,Returned
+ORD-00387,2025-01-25,CUST-1152,Ashanti,In-store,Smartphone,Electronics,2,2800.0,0.05,5320.0,1950.0,3900.0,1420.0,Mobile Money,Completed
+ORD-00388,2025-10-31,CUST-1209,Greater Accra,Online,Smartphone,Electronics,8,2800.0,0.2,17920.0,1950.0,15600.0,2320.0,Mobile Money,Completed
+ORD-00389,2025-11-22,CUST-1226,Greater Accra,In-store,USB Drive,Accessories,4,95.0,0.05,361.0,42.0,168.0,193.0,Bank Transfer,Completed
+ORD-00390,2025-02-25,CUST-1070,Western,Phone,Office Chair,Furniture,7,950.0,0.0,6650.0,590.0,4130.0,2520.0,Mobile Money,Completed
+ORD-00391,2025-09-30,CUST-1248,Greater Accra,In-store,Smartphone,Electronics,2,2800.0,0.0,5600.0,1950.0,3900.0,1700.0,Cash,Completed
+ORD-00392,2025-03-07,CUST-1130,Northern,In-store,Backpack,Accessories,2,320.0,0.1,576.0,155.0,310.0,266.0,Card,Completed
+ORD-00393,2025-05-15,CUST-1233,Greater Accra,In-store,Notebook Pack,Stationery,7,65.0,0.2,364.0,28.0,196.0,168.0,Card,Completed
+ORD-00394,2025-08-07,CUST-1030,Greater Accra,In-store,Laptop,Electronics,7,4200.0,0.0,29400.0,3000.0,21000.0,8400.0,Bank Transfer,Completed
+ORD-00395,2025-09-20,CUST-1025,Central,Online,Headphones,Electronics,5,450.0,0.1,2025.0,230.0,1150.0,875.0,Mobile Money,Completed
+ORD-00396,2025-11-16,CUST-1222,Eastern,Online,Smartphone,Electronics,1,2800.0,0.15,2380.0,1950.0,1950.0,430.0,Bank Transfer,Completed
+ORD-00397,2025-01-17,CUST-1169,Greater Accra,In-store,Printer Paper,Stationery,8,120.0,0.0,960.0,68.0,544.0,416.0,Mobile Money,Returned
+ORD-00398,2025-03-13,CUST-1044,Greater Accra,Online,Headphones,Electronics,4,450.0,0.0,1800.0,230.0,920.0,880.0,Bank Transfer,Completed
+ORD-00399,2025-04-13,CUST-1224,Greater Accra,Phone,Laptop,Electronics,8,4200.0,0.1,30240.0,3000.0,24000.0,6240.0,Card,Completed
+ORD-00400,2025-04-24,CUST-1026,Ashanti,Online,Laptop,Electronics,7,4200.0,0.1,26460.0,3000.0,21000.0,5460.0,Mobile Money,Returned
+ORD-00401,2025-12-31,CUST-1171,Ashanti,Online,Notebook Pack,Stationery,7,65.0,0.0,455.0,28.0,196.0,259.0,Bank Transfer,Completed
+ORD-00402,2025-10-11,CUST-1052,Greater Accra,In-store,Laptop,Electronics,6,4200.0,0.15,21420.0,3000.0,18000.0,3420.0,Mobile Money,Completed
+ORD-00403,2025-04-27,CUST-1018,Greater Accra,In-store,USB Drive,Accessories,6,95.0,0.05,541.5,42.0,252.0,289.5,Mobile Money,Completed
+ORD-00404,2025-12-21,CUST-1202,Ashanti,Phone,Smartphone,Electronics,5,2800.0,0.15,11900.0,1950.0,9750.0,2150.0,Bank Transfer,Completed
+ORD-00405,2025-07-02,CUST-1212,Northern,Online,Notebook Pack,Stationery,1,65.0,0.15,55.25,28.0,28.0,27.25,Card,Completed
+ORD-00406,2025-07-02,CUST-1027,Western,Online,Office Chair,Furniture,4,950.0,0.1,3420.0,590.0,2360.0,1060.0,Cash,Completed
+ORD-00407,2025-06-08,CUST-1024,Ashanti,Phone,Office Chair,Furniture,6,950.0,0.05,5415.0,590.0,3540.0,1875.0,Card,Completed
+ORD-00408,2025-02-22,CUST-1154,Greater Accra,In-store,Laptop,Electronics,7,4200.0,0.0,29400.0,3000.0,21000.0,8400.0,Card,Completed
+ORD-00409,2025-12-08,CUST-1008,Greater Accra,Online,Backpack,Accessories,5,320.0,0.05,1520.0,155.0,775.0,745.0,Mobile Money,Returned
+ORD-00410,2025-01-06,CUST-1187,Greater Accra,In-store,USB Drive,Accessories,6,95.0,0.0,570.0,42.0,252.0,318.0,Mobile Money,Completed
+ORD-00411,2025-03-05,CUST-1229,Central,In-store,Laptop,Electronics,1,4200.0,0.1,3780.0,3000.0,3000.0,780.0,Cash,Completed
+ORD-00412,2025-03-25,CUST-1188,Eastern,Online,Smartphone,Electronics,4,2800.0,0.0,11200.0,1950.0,7800.0,3400.0,Mobile Money,Completed
+ORD-00413,2025-04-12,CUST-1058,Eastern,In-store,USB Drive,Accessories,5,95.0,0.05,451.25,42.0,210.0,241.25,Card,Completed
+ORD-00414,2025-02-18,CUST-1048,Northern,Phone,Notebook Pack,Stationery,8,65.0,0.0,520.0,28.0,224.0,296.0,Mobile Money,Completed
+ORD-00415,2025-01-07,CUST-1171,Northern,In-store,Smartphone,Electronics,3,2800.0,0.0,8400.0,1950.0,5850.0,2550.0,Mobile Money,Completed
+ORD-00416,2025-09-05,CUST-1016,Northern,Online,Smartphone,Electronics,2,2800.0,0.0,5600.0,1950.0,3900.0,1700.0,Card,Completed
+ORD-00417,2025-12-20,CUST-1135,Greater Accra,Online,Printer Paper,Stationery,3,120.0,0.1,324.0,68.0,204.0,120.0,Bank Transfer,Completed
+ORD-00418,2025-02-14,CUST-1113,Greater Accra,Online,Printer Paper,Stationery,2,120.0,0.1,216.0,68.0,136.0,80.0,Bank Transfer,Completed
+ORD-00419,2025-04-19,CUST-1187,Greater Accra,Phone,Notebook Pack,Stationery,5,65.0,0.0,325.0,28.0,140.0,185.0,Cash,Completed
+ORD-00420,2025-07-04,CUST-1051,Ashanti,In-store,Monitor,Electronics,6,1650.0,0.15,8415.0,1120.0,6720.0,1695.0,Mobile Money,Completed
+ORD-00421,2025-12-05,CUST-1191,Greater Accra,In-store,Desk,Furniture,7,1250.0,0.15,7437.5,790.0,5530.0,1907.5,Card,Completed
+ORD-00422,2025-09-11,CUST-1175,Eastern,In-store,Headphones,Electronics,8,450.0,0.0,3600.0,230.0,1840.0,1760.0,Mobile Money,Completed
+ORD-00423,2025-10-07,CUST-1060,Western,In-store,Desk,Furniture,1,1250.0,0.1,1125.0,790.0,790.0,335.0,Bank Transfer,Completed
+ORD-00424,2025-08-01,CUST-1090,Ashanti,Phone,Headphones,Electronics,2,450.0,0.05,855.0,230.0,460.0,395.0,Mobile Money,Completed
+ORD-00425,2025-06-02,CUST-1017,Greater Accra,Online,Smartphone,Electronics,3,2800.0,0.0,8400.0,1950.0,5850.0,2550.0,Card,Completed
+ORD-00426,2025-03-14,CUST-1113,Greater Accra,In-store,Laptop,Electronics,2,4200.0,0.05,7980.0,3000.0,6000.0,1980.0,Mobile Money,Completed
+ORD-00427,2025-11-12,CUST-1066,Greater Accra,In-store,Headphones,Electronics,7,450.0,0.0,3150.0,230.0,1610.0,1540.0,Bank Transfer,Completed
+ORD-00428,2025-10-21,CUST-1029,Eastern,Online,Printer Paper,Stationery,2,120.0,0.15,204.0,68.0,136.0,68.0,Bank Transfer,Completed
+ORD-00429,2025-01-10,CUST-1140,Western,Online,Laptop,Electronics,1,4200.0,0.15,3570.0,3000.0,3000.0,570.0,Cash,Completed
+ORD-00430,2025-09-19,CUST-1142,Central,In-store,Office Chair,Furniture,7,950.0,0.15,5652.5,590.0,4130.0,1522.5,Mobile Money,Returned
+ORD-00431,2025-01-31,CUST-1022,Greater Accra,Online,Printer Paper,Stationery,8,120.0,0.05,912.0,68.0,544.0,368.0,Cash,Completed
+ORD-00432,2025-09-27,CUST-1047,Ashanti,Online,Notebook Pack,Stationery,2,65.0,0.05,123.5,28.0,56.0,67.5,Mobile Money,Completed
+ORD-00433,2025-10-29,CUST-1021,Ashanti,Online,Backpack,Accessories,3,320.0,0.2,768.0,155.0,465.0,303.0,Mobile Money,Completed
+ORD-00434,2025-02-17,CUST-1170,Central,In-store,Backpack,Accessories,5,320.0,0.0,1600.0,155.0,775.0,825.0,Mobile Money,Completed
+ORD-00435,2025-06-08,CUST-1085,Central,Online,Printer Paper,Stationery,5,120.0,0.0,600.0,68.0,340.0,260.0,Mobile Money,Completed
+ORD-00436,2025-02-15,CUST-1018,Greater Accra,In-store,Smartphone,Electronics,8,2800.0,0.05,21280.0,1950.0,15600.0,5680.0,Card,Completed
+ORD-00437,2025-07-27,CUST-1048,Northern,In-store,Desk,Furniture,4,1250.0,0.0,5000.0,790.0,3160.0,1840.0,Mobile Money,Completed
+ORD-00438,2025-12-05,CUST-1244,Greater Accra,Online,Notebook Pack,Stationery,1,65.0,0.0,65.0,28.0,28.0,37.0,Mobile Money,Completed
+ORD-00439,2025-01-30,CUST-1064,Eastern,Online,Headphones,Electronics,4,450.0,0.0,1800.0,230.0,920.0,880.0,Card,Completed
+ORD-00440,2025-05-26,CUST-1172,Greater Accra,In-store,Laptop,Electronics,5,4200.0,0.05,19950.0,3000.0,15000.0,4950.0,Bank Transfer,Completed
+ORD-00441,2025-12-22,CUST-1118,Greater Accra,Phone,Smartphone,Electronics,5,2800.0,0.0,14000.0,1950.0,9750.0,4250.0,Bank Transfer,Completed
+ORD-00442,2025-04-20,CUST-1046,Eastern,In-store,Desk,Furniture,5,1250.0,0.0,6250.0,790.0,3950.0,2300.0,Card,Completed
+ORD-00443,2025-02-18,CUST-1077,Greater Accra,Online,Office Chair,Furniture,8,950.0,0.0,7600.0,590.0,4720.0,2880.0,Mobile Money,Completed
+ORD-00444,2025-06-28,CUST-1004,Ashanti,Phone,Smartphone,Electronics,7,2800.0,0.0,19600.0,1950.0,13650.0,5950.0,Bank Transfer,Completed
+ORD-00445,2025-07-05,CUST-1187,Ashanti,Online,Backpack,Accessories,3,320.0,0.15,816.0,155.0,465.0,351.0,Mobile Money,Completed
+ORD-00446,2025-08-30,CUST-1084,Greater Accra,Online,Monitor,Electronics,3,1650.0,0.0,4950.0,1120.0,3360.0,1590.0,Mobile Money,Completed
+ORD-00447,2025-04-25,CUST-1125,Central,Online,Smartphone,Electronics,6,2800.0,0.1,15120.0,1950.0,11700.0,3420.0,Mobile Money,Completed
+ORD-00448,2025-12-15,CUST-1039,Eastern,Online,Monitor,Electronics,4,1650.0,0.1,5940.0,1120.0,4480.0,1460.0,Card,Completed
+ORD-00449,2025-07-10,CUST-1207,Eastern,Online,Laptop,Electronics,4,4200.0,0.0,16800.0,3000.0,12000.0,4800.0,Mobile Money,Completed
+ORD-00450,2025-04-15,CUST-1055,Greater Accra,Online,Monitor,Electronics,2,1650.0,0.15,2805.0,1120.0,2240.0,565.0,Card,Completed
+ORD-00451,2025-12-17,CUST-1142,Ashanti,In-store,Monitor,Electronics,3,1650.0,0.1,4455.0,1120.0,3360.0,1095.0,Mobile Money,Completed
+ORD-00452,2025-12-04,CUST-1219,Greater Accra,Online,Laptop,Electronics,6,4200.0,0.05,23940.0,3000.0,18000.0,5940.0,Card,Returned
+ORD-00453,2025-07-02,CUST-1179,Greater Accra,In-store,Backpack,Accessories,7,320.0,0.0,2240.0,155.0,1085.0,1155.0,Card,Completed
+ORD-00454,2025-01-10,CUST-1151,Greater Accra,Phone,Monitor,Electronics,7,1650.0,0.0,11550.0,1120.0,7840.0,3710.0,Mobile Money,Completed
+ORD-00455,2025-08-06,CUST-1223,Northern,In-store,USB Drive,Accessories,3,95.0,0.2,228.0,42.0,126.0,102.0,Card,Completed
+ORD-00456,2025-07-22,CUST-1045,Eastern,In-store,Monitor,Electronics,2,1650.0,0.1,2970.0,1120.0,2240.0,730.0,Card,Completed
+ORD-00457,2025-02-24,CUST-1241,Central,Phone,Notebook Pack,Stationery,2,65.0,0.15,110.5,28.0,56.0,54.5,Card,Completed
+ORD-00458,2025-08-20,CUST-1140,Ashanti,In-store,Laptop,Electronics,4,4200.0,0.15,14280.0,3000.0,12000.0,2280.0,Mobile Money,Completed
+ORD-00459,2025-11-03,CUST-1103,Ashanti,In-store,USB Drive,Accessories,5,95.0,0.0,475.0,42.0,210.0,265.0,Card,Completed
+ORD-00460,2025-02-08,CUST-1064,Ashanti,Online,Notebook Pack,Stationery,8,65.0,0.1,468.0,28.0,224.0,244.0,Mobile Money,Completed
+ORD-00461,2025-09-22,CUST-1187,Ashanti,In-store,Notebook Pack,Stationery,8,65.0,0.05,494.0,28.0,224.0,270.0,Mobile Money,Completed
+ORD-00462,2025-02-21,CUST-1245,Ashanti,In-store,Office Chair,Furniture,1,950.0,0.1,855.0,590.0,590.0,265.0,Mobile Money,Completed
+ORD-00463,2025-10-01,CUST-1173,Greater Accra,Online,Notebook Pack,Stationery,6,65.0,0.0,390.0,28.0,168.0,222.0,Card,Completed
+ORD-00464,2025-06-02,CUST-1009,Greater Accra,In-store,Smartphone,Electronics,3,2800.0,0.0,8400.0,1950.0,5850.0,2550.0,Mobile Money,Completed
+ORD-00465,2025-01-03,CUST-1118,Northern,In-store,Printer Paper,Stationery,2,120.0,0.1,216.0,68.0,136.0,80.0,Bank Transfer,Completed
+ORD-00466,2025-12-19,CUST-1184,Ashanti,In-store,Laptop,Electronics,5,4200.0,0.1,18900.0,3000.0,15000.0,3900.0,Mobile Money,Completed
+ORD-00467,2025-03-02,CUST-1100,Northern,In-store,Printer Paper,Stationery,1,120.0,0.1,108.0,68.0,68.0,40.0,Bank Transfer,Completed
+ORD-00468,2025-08-06,CUST-1194,Greater Accra,In-store,USB Drive,Accessories,3,95.0,0.0,285.0,42.0,126.0,159.0,Mobile Money,Completed
+ORD-00469,2025-03-08,CUST-1177,Ashanti,In-store,Desk,Furniture,5,1250.0,0.0,6250.0,790.0,3950.0,2300.0,Card,Completed
+ORD-00470,2025-12-07,CUST-1017,Greater Accra,Online,Desk,Furniture,3,1250.0,0.2,3000.0,790.0,2370.0,630.0,Bank Transfer,Completed
+ORD-00471,2025-09-27,CUST-1140,Greater Accra,Online,Headphones,Electronics,5,450.0,0.05,2137.5,230.0,1150.0,987.5,Mobile Money,Completed
+ORD-00472,2025-10-21,CUST-1043,Greater Accra,In-store,Monitor,Electronics,4,1650.0,0.05,6270.0,1120.0,4480.0,1790.0,Mobile Money,Completed
+ORD-00473,2025-06-07,CUST-1122,Greater Accra,In-store,Printer Paper,Stationery,7,120.0,0.05,798.0,68.0,476.0,322.0,Card,Completed
+ORD-00474,2025-06-20,CUST-1097,Northern,Phone,Headphones,Electronics,2,450.0,0.05,855.0,230.0,460.0,395.0,Cash,Returned
+ORD-00475,2025-08-20,CUST-1202,Greater Accra,Online,Smartphone,Electronics,1,2800.0,0.05,2660.0,1950.0,1950.0,710.0,Cash,Completed
+ORD-00476,2025-10-14,CUST-1218,Western,In-store,Smartphone,Electronics,5,2800.0,0.05,13300.0,1950.0,9750.0,3550.0,Mobile Money,Completed
+ORD-00477,2025-11-06,CUST-1116,Ashanti,Online,Desk,Furniture,3,1250.0,0.15,3187.5,790.0,2370.0,817.5,Bank Transfer,Completed
+ORD-00478,2025-01-07,CUST-1135,Ashanti,In-store,Monitor,Electronics,6,1650.0,0.15,8415.0,1120.0,6720.0,1695.0,Mobile Money,Completed
+ORD-00479,2025-08-31,CUST-1157,Ashanti,Online,Printer Paper,Stationery,1,120.0,0.15,102.0,68.0,68.0,34.0,Mobile Money,Completed
+ORD-00480,2025-02-09,CUST-1164,Greater Accra,Phone,Smartphone,Electronics,5,2800.0,0.05,13300.0,1950.0,9750.0,3550.0,Card,Completed
+ORD-00481,2025-04-16,CUST-1159,Northern,Phone,USB Drive,Accessories,8,95.0,0.05,722.0,42.0,336.0,386.0,Card,Returned
+ORD-00482,2025-10-30,CUST-1196,Eastern,In-store,Office Chair,Furniture,1,950.0,0.1,855.0,590.0,590.0,265.0,Card,Returned
+ORD-00483,2025-04-02,CUST-1246,Central,In-store,USB Drive,Accessories,3,95.0,0.15,242.25,42.0,126.0,116.25,Bank Transfer,Completed
+ORD-00484,2025-10-18,CUST-1208,Ashanti,In-store,Headphones,Electronics,7,450.0,0.05,2992.5,230.0,1610.0,1382.5,Mobile Money,Completed
+ORD-00485,2025-06-18,CUST-1034,Greater Accra,In-store,Notebook Pack,Stationery,5,65.0,0.1,292.5,28.0,140.0,152.5,Card,Completed
+ORD-00486,2025-03-26,CUST-1120,Northern,In-store,Monitor,Electronics,2,1650.0,0.1,2970.0,1120.0,2240.0,730.0,Mobile Money,Completed
+ORD-00487,2025-05-02,CUST-1116,Ashanti,Online,Headphones,Electronics,2,450.0,0.1,810.0,230.0,460.0,350.0,Mobile Money,Completed
+ORD-00488,2025-07-13,CUST-1128,Greater Accra,In-store,Printer Paper,Stationery,7,120.0,0.1,756.0,68.0,476.0,280.0,Mobile Money,Completed
+ORD-00489,2025-10-07,CUST-1133,Ashanti,Phone,Monitor,Electronics,7,1650.0,0.0,11550.0,1120.0,7840.0,3710.0,Cash,Completed
+ORD-00490,2025-08-10,CUST-1180,Central,In-store,Smartphone,Electronics,3,2800.0,0.05,7980.0,1950.0,5850.0,2130.0,Card,Completed
+ORD-00491,2025-12-07,CUST-1106,Western,In-store,Laptop,Electronics,4,4200.0,0.05,15960.0,3000.0,12000.0,3960.0,Mobile Money,Completed
+ORD-00492,2025-11-13,CUST-1066,Central,Phone,Printer Paper,Stationery,7,120.0,0.0,840.0,68.0,476.0,364.0,Bank Transfer,Completed
+ORD-00493,2025-10-02,CUST-1115,Central,Online,Headphones,Electronics,2,450.0,0.15,765.0,230.0,460.0,305.0,Cash,Completed
+ORD-00494,2025-08-09,CUST-1214,Greater Accra,In-store,Laptop,Electronics,2,4200.0,0.1,7560.0,3000.0,6000.0,1560.0,Cash,Completed
+ORD-00495,2025-04-16,CUST-1078,Northern,Online,Desk,Furniture,7,1250.0,0.0,8750.0,790.0,5530.0,3220.0,Card,Completed
+ORD-00496,2025-05-31,CUST-1006,Ashanti,In-store,Backpack,Accessories,2,320.0,0.1,576.0,155.0,310.0,266.0,Mobile Money,Completed
+ORD-00497,2025-02-13,CUST-1245,Western,In-store,Headphones,Electronics,7,450.0,0.1,2835.0,230.0,1610.0,1225.0,Card,Completed
+ORD-00498,2025-05-17,CUST-1049,Greater Accra,Online,Headphones,Electronics,4,450.0,0.1,1620.0,230.0,920.0,700.0,Bank Transfer,Completed
+ORD-00499,2025-12-05,CUST-1151,Northern,In-store,USB Drive,Accessories,8,95.0,0.0,760.0,42.0,336.0,424.0,Cash,Completed
+ORD-00500,2025-06-05,CUST-1201,Greater Accra,Online,Notebook Pack,Stationery,1,65.0,0.15,55.25,28.0,28.0,27.25,Bank Transfer,Completed
+ORD-00501,2025-02-11,CUST-1069,Greater Accra,In-store,USB Drive,Accessories,8,95.0,0.05,722.0,42.0,336.0,386.0,Card,Completed
+ORD-00502,2025-08-26,CUST-1086,Ashanti,Online,Office Chair,Furniture,2,950.0,0.05,1805.0,590.0,1180.0,625.0,Mobile Money,Completed
+ORD-00503,2025-12-18,CUST-1071,Greater Accra,Online,Monitor,Electronics,1,1650.0,0.0,1650.0,1120.0,1120.0,530.0,Card,Completed
+ORD-00504,2025-11-13,CUST-1038,Greater Accra,In-store,Printer Paper,Stationery,6,120.0,0.1,648.0,68.0,408.0,240.0,Mobile Money,Completed
+ORD-00505,2025-04-11,CUST-1039,Western,In-store,Smartphone,Electronics,5,2800.0,0.1,12600.0,1950.0,9750.0,2850.0,Mobile Money,Completed
+ORD-00506,2025-06-15,CUST-1047,Ashanti,In-store,USB Drive,Accessories,7,95.0,0.05,631.75,42.0,294.0,337.75,Card,Completed
+ORD-00507,2025-07-13,CUST-1115,Northern,Online,Desk,Furniture,1,1250.0,0.05,1187.5,790.0,790.0,397.5,Card,Completed
+ORD-00508,2025-04-01,CUST-1133,Greater Accra,Online,Smartphone,Electronics,1,2800.0,0.1,2520.0,1950.0,1950.0,570.0,Bank Transfer,Completed
+ORD-00509,2025-04-09,CUST-1004,Central,Online,Smartphone,Electronics,5,2800.0,0.1,12600.0,1950.0,9750.0,2850.0,Bank Transfer,Completed
+ORD-00510,2025-03-28,CUST-1212,Ashanti,In-store,Printer Paper,Stationery,8,120.0,0.0,960.0,68.0,544.0,416.0,Bank Transfer,Completed
+ORD-00511,2025-12-30,CUST-1169,Western,In-store,Laptop,Electronics,4,4200.0,0.2,13440.0,3000.0,12000.0,1440.0,Bank Transfer,Completed
+ORD-00512,2025-09-30,CUST-1018,Western,Online,Headphones,Electronics,7,450.0,0.1,2835.0,230.0,1610.0,1225.0,Bank Transfer,Returned
+ORD-00513,2025-11-03,CUST-1211,Ashanti,In-store,Smartphone,Electronics,8,2800.0,0.2,17920.0,1950.0,15600.0,2320.0,Mobile Money,Completed
+ORD-00514,2025-10-26,CUST-1008,Northern,Online,Office Chair,Furniture,7,950.0,0.2,5320.0,590.0,4130.0,1190.0,Card,Completed
+ORD-00515,2025-12-17,CUST-1141,Ashanti,In-store,Office Chair,Furniture,5,950.0,0.15,4037.5,590.0,2950.0,1087.5,Mobile Money,Completed
+ORD-00516,2025-02-08,CUST-1117,Greater Accra,In-store,Notebook Pack,Stationery,6,65.0,0.1,351.0,28.0,168.0,183.0,Mobile Money,Returned
+ORD-00517,2025-11-18,CUST-1126,Western,Online,Headphones,Electronics,5,450.0,0.1,2025.0,230.0,1150.0,875.0,Mobile Money,Completed
+ORD-00518,2025-01-25,CUST-1240,Eastern,Online,Laptop,Electronics,6,4200.0,0.0,25200.0,3000.0,18000.0,7200.0,Bank Transfer,Completed
+ORD-00519,2025-06-23,CUST-1232,Greater Accra,Online,Notebook Pack,Stationery,5,65.0,0.05,308.75,28.0,140.0,168.75,Bank Transfer,Completed
+ORD-00520,2025-08-05,CUST-1070,Ashanti,In-store,Office Chair,Furniture,5,950.0,0.1,4275.0,590.0,2950.0,1325.0,Cash,Completed
+ORD-00521,2025-05-11,CUST-1145,Eastern,Phone,Printer Paper,Stationery,4,120.0,0.05,456.0,68.0,272.0,184.0,Cash,Returned
+ORD-00522,2025-02-23,CUST-1240,Central,Online,Smartphone,Electronics,6,2800.0,0.15,14280.0,1950.0,11700.0,2580.0,Cash,Returned
+ORD-00523,2025-03-12,CUST-1183,Northern,Phone,Laptop,Electronics,7,4200.0,0.0,29400.0,3000.0,21000.0,8400.0,Mobile Money,Completed
+ORD-00524,2025-10-29,CUST-1222,Ashanti,Online,Headphones,Electronics,8,450.0,0.0,3600.0,230.0,1840.0,1760.0,Cash,Completed
+ORD-00525,2025-04-27,CUST-1109,Western,Online,Desk,Furniture,5,1250.0,0.05,5937.5,790.0,3950.0,1987.5,Bank Transfer,Completed
+ORD-00526,2025-04-24,CUST-1071,Greater Accra,Online,Office Chair,Furniture,1,950.0,0.05,902.5,590.0,590.0,312.5,Cash,Completed
+ORD-00527,2025-12-04,CUST-1128,Northern,In-store,Backpack,Accessories,5,320.0,0.0,1600.0,155.0,775.0,825.0,Mobile Money,Completed
+ORD-00528,2025-02-22,CUST-1205,Ashanti,In-store,Office Chair,Furniture,3,950.0,0.0,2850.0,590.0,1770.0,1080.0,Mobile Money,Completed
+ORD-00529,2025-12-01,CUST-1233,Central,Online,Notebook Pack,Stationery,1,65.0,0.15,55.25,28.0,28.0,27.25,Cash,Completed
+ORD-00530,2025-12-03,CUST-1172,Ashanti,In-store,Notebook Pack,Stationery,1,65.0,0.05,61.75,28.0,28.0,33.75,Mobile Money,Completed
+ORD-00531,2025-08-07,CUST-1177,Western,In-store,Laptop,Electronics,5,4200.0,0.0,21000.0,3000.0,15000.0,6000.0,Mobile Money,Completed
+ORD-00532,2025-03-02,CUST-1128,Central,Phone,Desk,Furniture,8,1250.0,0.0,10000.0,790.0,6320.0,3680.0,Card,Completed
+ORD-00533,2025-02-26,CUST-1080,Ashanti,In-store,Headphones,Electronics,5,450.0,0.05,2137.5,230.0,1150.0,987.5,Mobile Money,Completed
+ORD-00534,2025-04-14,CUST-1106,Eastern,Online,Office Chair,Furniture,4,950.0,0.0,3800.0,590.0,2360.0,1440.0,Mobile Money,Completed
+ORD-00535,2025-07-30,CUST-1125,Ashanti,Online,Smartphone,Electronics,1,2800.0,0.1,2520.0,1950.0,1950.0,570.0,Cash,Completed
+ORD-00536,2025-02-26,CUST-1204,Western,In-store,Backpack,Accessories,6,320.0,0.1,1728.0,155.0,930.0,798.0,Cash,Completed
+ORD-00537,2025-06-16,CUST-1139,Ashanti,Phone,Monitor,Electronics,1,1650.0,0.0,1650.0,1120.0,1120.0,530.0,Cash,Completed
+ORD-00538,2025-02-12,CUST-1199,Ashanti,In-store,Laptop,Electronics,7,4200.0,0.05,27930.0,3000.0,21000.0,6930.0,Mobile Money,Completed
+ORD-00539,2025-07-17,CUST-1007,Ashanti,Phone,Notebook Pack,Stationery,7,65.0,0.0,455.0,28.0,196.0,259.0,Mobile Money,Completed
+ORD-00540,2025-01-08,CUST-1190,Greater Accra,Online,Backpack,Accessories,8,320.0,0.0,2560.0,155.0,1240.0,1320.0,Card,Returned
+ORD-00541,2025-09-16,CUST-1127,Greater Accra,In-store,Headphones,Electronics,3,450.0,0.15,1147.5,230.0,690.0,457.5,Card,Completed
+ORD-00542,2025-01-21,CUST-1250,Western,In-store,Backpack,Accessories,2,320.0,0.05,608.0,155.0,310.0,298.0,Mobile Money,Completed
+ORD-00543,2025-03-13,CUST-1118,Western,In-store,Notebook Pack,Stationery,3,65.0,0.15,165.75,28.0,84.0,81.75,Bank Transfer,Completed
+ORD-00544,2025-03-05,CUST-1120,Western,In-store,Monitor,Electronics,7,1650.0,0.0,11550.0,1120.0,7840.0,3710.0,Cash,Completed
+ORD-00545,2025-10-31,CUST-1032,Greater Accra,In-store,Monitor,Electronics,2,1650.0,0.0,3300.0,1120.0,2240.0,1060.0,Card,Returned
+ORD-00546,2025-01-20,CUST-1202,Greater Accra,Phone,Laptop,Electronics,8,4200.0,0.05,31920.0,3000.0,24000.0,7920.0,Mobile Money,Returned
+ORD-00547,2025-06-06,CUST-1176,Greater Accra,In-store,Office Chair,Furniture,2,950.0,0.05,1805.0,590.0,1180.0,625.0,Mobile Money,Completed
+ORD-00548,2025-08-04,CUST-1216,Central,Online,Notebook Pack,Stationery,1,65.0,0.2,52.0,28.0,28.0,24.0,Mobile Money,Completed
+ORD-00549,2025-07-08,CUST-1024,Eastern,In-store,Smartphone,Electronics,2,2800.0,0.0,5600.0,1950.0,3900.0,1700.0,Mobile Money,Completed
+ORD-00550,2025-09-06,CUST-1053,Greater Accra,Phone,Headphones,Electronics,7,450.0,0.15,2677.5,230.0,1610.0,1067.5,Card,Completed
+ORD-00551,2025-10-21,CUST-1220,Western,In-store,Monitor,Electronics,5,1650.0,0.15,7012.5,1120.0,5600.0,1412.5,Card,Returned
+ORD-00552,2025-05-24,CUST-1011,Greater Accra,In-store,Laptop,Electronics,3,4200.0,0.05,11970.0,3000.0,9000.0,2970.0,Card,Completed
+ORD-00553,2025-10-30,CUST-1128,Greater Accra,Online,Desk,Furniture,6,1250.0,0.0,7500.0,790.0,4740.0,2760.0,Bank Transfer,Completed
+ORD-00554,2025-04-27,CUST-1102,Greater Accra,In-store,USB Drive,Accessories,6,95.0,0.05,541.5,42.0,252.0,289.5,Mobile Money,Completed
+ORD-00555,2025-12-26,CUST-1235,Greater Accra,Online,Headphones,Electronics,5,450.0,0.0,2250.0,230.0,1150.0,1100.0,Mobile Money,Completed
+ORD-00556,2025-07-04,CUST-1215,Western,In-store,Desk,Furniture,5,1250.0,0.1,5625.0,790.0,3950.0,1675.0,Mobile Money,Completed
+ORD-00557,2025-09-26,CUST-1225,Northern,Online,Monitor,Electronics,1,1650.0,0.05,1567.5,1120.0,1120.0,447.5,Mobile Money,Completed
+ORD-00558,2025-11-16,CUST-1073,Greater Accra,Online,Desk,Furniture,3,1250.0,0.15,3187.5,790.0,2370.0,817.5,Card,Completed
+ORD-00559,2025-10-17,CUST-1147,Ashanti,Online,Smartphone,Electronics,5,2800.0,0.1,12600.0,1950.0,9750.0,2850.0,Bank Transfer,Completed
+ORD-00560,2025-11-07,CUST-1176,Central,In-store,Laptop,Electronics,2,4200.0,0.05,7980.0,3000.0,6000.0,1980.0,Cash,Completed
+ORD-00561,2025-07-15,CUST-1242,Northern,In-store,Monitor,Electronics,4,1650.0,0.1,5940.0,1120.0,4480.0,1460.0,Card,Completed
+ORD-00562,2025-01-16,CUST-1002,Western,In-store,Headphones,Electronics,1,450.0,0.05,427.5,230.0,230.0,197.5,Card,Completed
+ORD-00563,2025-06-29,CUST-1245,Greater Accra,In-store,Desk,Furniture,7,1250.0,0.15,7437.5,790.0,5530.0,1907.5,Mobile Money,Completed
+ORD-00564,2025-03-08,CUST-1089,Western,In-store,Laptop,Electronics,1,4200.0,0.0,4200.0,3000.0,3000.0,1200.0,Card,Completed
+ORD-00565,2025-11-21,CUST-1033,Greater Accra,Phone,Office Chair,Furniture,1,950.0,0.2,760.0,590.0,590.0,170.0,Mobile Money,Completed
+ORD-00566,2025-03-28,CUST-1154,Northern,Online,Monitor,Electronics,6,1650.0,0.1,8910.0,1120.0,6720.0,2190.0,Cash,Completed
+ORD-00567,2025-03-25,CUST-1196,Ashanti,Online,Desk,Furniture,2,1250.0,0.15,2125.0,790.0,1580.0,545.0,Card,Completed
+ORD-00568,2025-04-02,CUST-1033,Western,In-store,Monitor,Electronics,3,1650.0,0.05,4702.5,1120.0,3360.0,1342.5,Mobile Money,Returned
+ORD-00569,2025-08-23,CUST-1011,Greater Accra,In-store,Headphones,Electronics,3,450.0,0.15,1147.5,230.0,690.0,457.5,Mobile Money,Completed
+ORD-00570,2025-07-28,CUST-1225,Ashanti,Online,Desk,Furniture,2,1250.0,0.0,2500.0,790.0,1580.0,920.0,Mobile Money,Completed
+ORD-00571,2025-12-13,CUST-1234,Eastern,In-store,USB Drive,Accessories,7,95.0,0.1,598.5,42.0,294.0,304.5,Cash,Completed
+ORD-00572,2025-06-01,CUST-1040,Western,In-store,Office Chair,Furniture,6,950.0,0.0,5700.0,590.0,3540.0,2160.0,Mobile Money,Completed
+ORD-00573,2025-04-14,CUST-1227,Ashanti,In-store,Headphones,Electronics,2,450.0,0.0,900.0,230.0,460.0,440.0,Mobile Money,Completed
+ORD-00574,2025-01-18,CUST-1228,Northern,Online,USB Drive,Accessories,6,95.0,0.05,541.5,42.0,252.0,289.5,Mobile Money,Completed
+ORD-00575,2025-01-03,CUST-1250,Eastern,Phone,Office Chair,Furniture,6,950.0,0.0,5700.0,590.0,3540.0,2160.0,Bank Transfer,Completed
+ORD-00576,2025-05-17,CUST-1055,Greater Accra,In-store,Notebook Pack,Stationery,5,65.0,0.0,325.0,28.0,140.0,185.0,Card,Completed
+ORD-00577,2025-12-04,CUST-1145,Ashanti,Online,Monitor,Electronics,5,1650.0,0.15,7012.5,1120.0,5600.0,1412.5,Card,Completed
+ORD-00578,2025-07-11,CUST-1249,Ashanti,In-store,Smartphone,Electronics,8,2800.0,0.0,22400.0,1950.0,15600.0,6800.0,Mobile Money,Returned
+ORD-00579,2025-11-23,CUST-1226,Western,In-store,Headphones,Electronics,4,450.0,0.1,1620.0,230.0,920.0,700.0,Mobile Money,Completed
+ORD-00580,2025-02-07,CUST-1152,Greater Accra,Online,Laptop,Electronics,4,4200.0,0.0,16800.0,3000.0,12000.0,4800.0,Bank Transfer,Returned
+ORD-00581,2025-02-04,CUST-1050,Greater Accra,In-store,Office Chair,Furniture,5,950.0,0.1,4275.0,590.0,2950.0,1325.0,Mobile Money,Completed
+ORD-00582,2025-11-01,CUST-1022,Northern,Online,Smartphone,Electronics,7,2800.0,0.1,17640.0,1950.0,13650.0,3990.0,Mobile Money,Completed
+ORD-00583,2025-02-08,CUST-1065,Northern,In-store,Printer Paper,Stationery,6,120.0,0.05,684.0,68.0,408.0,276.0,Card,Completed
+ORD-00584,2025-01-19,CUST-1017,Eastern,In-store,Smartphone,Electronics,1,2800.0,0.1,2520.0,1950.0,1950.0,570.0,Mobile Money,Completed
+ORD-00585,2025-05-28,CUST-1049,Northern,Phone,Printer Paper,Stationery,4,120.0,0.15,408.0,68.0,272.0,136.0,Mobile Money,Completed
+ORD-00586,2025-12-04,CUST-1019,Central,In-store,Headphones,Electronics,6,450.0,0.1,2430.0,230.0,1380.0,1050.0,Bank Transfer,Completed
+ORD-00587,2025-09-09,CUST-1191,Central,Online,Headphones,Electronics,2,450.0,0.0,900.0,230.0,460.0,440.0,Card,Completed
+ORD-00588,2025-02-06,CUST-1148,Central,In-store,Headphones,Electronics,8,450.0,0.05,3420.0,230.0,1840.0,1580.0,Mobile Money,Completed
+ORD-00589,2025-11-02,CUST-1130,Ashanti,Phone,Printer Paper,Stationery,7,120.0,0.1,756.0,68.0,476.0,280.0,Mobile Money,Completed
+ORD-00590,2025-11-04,CUST-1203,Ashanti,In-store,Desk,Furniture,7,1250.0,0.0,8750.0,790.0,5530.0,3220.0,Bank Transfer,Completed
+ORD-00591,2025-10-20,CUST-1103,Greater Accra,In-store,Headphones,Electronics,1,450.0,0.1,405.0,230.0,230.0,175.0,Mobile Money,Completed
+ORD-00592,2025-11-26,CUST-1101,Western,Online,USB Drive,Accessories,5,95.0,0.0,475.0,42.0,210.0,265.0,Mobile Money,Completed
+ORD-00593,2025-03-29,CUST-1052,Greater Accra,In-store,Notebook Pack,Stationery,5,65.0,0.1,292.5,28.0,140.0,152.5,Card,Completed
+ORD-00594,2025-12-24,CUST-1112,Greater Accra,In-store,Smartphone,Electronics,6,2800.0,0.0,16800.0,1950.0,11700.0,5100.0,Card,Completed
+ORD-00595,2025-04-28,CUST-1044,Western,Phone,USB Drive,Accessories,7,95.0,0.0,665.0,42.0,294.0,371.0,Cash,Completed
+ORD-00596,2025-10-20,CUST-1148,Ashanti,Online,Headphones,Electronics,3,450.0,0.2,1080.0,230.0,690.0,390.0,Mobile Money,Completed
+ORD-00597,2025-07-31,CUST-1250,Greater Accra,Online,Laptop,Electronics,5,4200.0,0.15,17850.0,3000.0,15000.0,2850.0,Mobile Money,Completed
+ORD-00598,2025-10-12,CUST-1134,Eastern,Online,Desk,Furniture,6,1250.0,0.15,6375.0,790.0,4740.0,1635.0,Card,Completed
+ORD-00599,2025-08-18,CUST-1075,Eastern,Online,Smartphone,Electronics,7,2800.0,0.2,15680.0,1950.0,13650.0,2030.0,Card,Completed
+ORD-00600,2025-08-23,CUST-1173,Greater Accra,Phone,Headphones,Electronics,7,450.0,0.05,2992.5,230.0,1610.0,1382.5,Mobile Money,Completed
+ORD-00601,2025-08-13,CUST-1206,Greater Accra,Online,Backpack,Accessories,3,320.0,0.0,960.0,155.0,465.0,495.0,Card,Completed
+ORD-00602,2025-10-12,CUST-1118,Greater Accra,In-store,Smartphone,Electronics,8,2800.0,0.0,22400.0,1950.0,15600.0,6800.0,Mobile Money,Completed
+ORD-00603,2025-09-27,CUST-1063,Central,In-store,Backpack,Accessories,1,320.0,0.05,304.0,155.0,155.0,149.0,Bank Transfer,Completed
+ORD-00604,2025-02-19,CUST-1179,Eastern,Online,Monitor,Electronics,4,1650.0,0.0,6600.0,1120.0,4480.0,2120.0,Bank Transfer,Completed
+ORD-00605,2025-10-29,CUST-1047,Greater Accra,Online,Notebook Pack,Stationery,5,65.0,0.15,276.25,28.0,140.0,136.25,Card,Completed
+ORD-00606,2025-07-15,CUST-1250,Central,In-store,Printer Paper,Stationery,1,120.0,0.0,120.0,68.0,68.0,52.0,Cash,Completed
+ORD-00607,2025-04-28,CUST-1080,Greater Accra,In-store,Printer Paper,Stationery,4,120.0,0.0,480.0,68.0,272.0,208.0,Cash,Completed
+ORD-00608,2025-07-07,CUST-1088,Ashanti,In-store,Monitor,Electronics,5,1650.0,0.0,8250.0,1120.0,5600.0,2650.0,Mobile Money,Completed
+ORD-00609,2025-12-19,CUST-1182,Northern,Online,Headphones,Electronics,5,450.0,0.0,2250.0,230.0,1150.0,1100.0,Mobile Money,Completed
+ORD-00610,2025-11-10,CUST-1004,Greater Accra,Online,Smartphone,Electronics,1,2800.0,0.0,2800.0,1950.0,1950.0,850.0,Card,Completed
+ORD-00611,2025-11-01,CUST-1051,Greater Accra,In-store,Desk,Furniture,3,1250.0,0.1,3375.0,790.0,2370.0,1005.0,Mobile Money,Returned
+ORD-00612,2025-06-18,CUST-1032,Ashanti,Online,Notebook Pack,Stationery,2,65.0,0.0,130.0,28.0,56.0,74.0,Mobile Money,Completed
+ORD-00613,2025-10-14,CUST-1098,Western,Online,Smartphone,Electronics,6,2800.0,0.1,15120.0,1950.0,11700.0,3420.0,Mobile Money,Completed
+ORD-00614,2025-05-21,CUST-1139,Northern,Phone,Notebook Pack,Stationery,3,65.0,0.15,165.75,28.0,84.0,81.75,Cash,Completed
+ORD-00615,2025-09-08,CUST-1045,Northern,In-store,Laptop,Electronics,5,4200.0,0.1,18900.0,3000.0,15000.0,3900.0,Card,Completed
+ORD-00616,2025-08-22,CUST-1087,Greater Accra,Phone,Monitor,Electronics,6,1650.0,0.1,8910.0,1120.0,6720.0,2190.0,Bank Transfer,Completed
+ORD-00617,2025-04-02,CUST-1194,Greater Accra,Online,Headphones,Electronics,7,450.0,0.0,3150.0,230.0,1610.0,1540.0,Mobile Money,Completed
+ORD-00618,2025-04-08,CUST-1235,Central,Online,Laptop,Electronics,2,4200.0,0.0,8400.0,3000.0,6000.0,2400.0,Mobile Money,Completed
+ORD-00619,2025-01-23,CUST-1004,Greater Accra,In-store,Smartphone,Electronics,8,2800.0,0.0,22400.0,1950.0,15600.0,6800.0,Cash,Completed
+ORD-00620,2025-02-21,CUST-1157,Eastern,Online,Headphones,Electronics,2,450.0,0.2,720.0,230.0,460.0,260.0,Mobile Money,Completed
+ORD-00621,2025-06-08,CUST-1007,Western,Online,Headphones,Electronics,1,450.0,0.1,405.0,230.0,230.0,175.0,Mobile Money,Completed
+ORD-00622,2025-06-24,CUST-1131,Greater Accra,In-store,Laptop,Electronics,1,4200.0,0.0,4200.0,3000.0,3000.0,1200.0,Mobile Money,Completed
+ORD-00623,2025-03-02,CUST-1220,Eastern,In-store,Headphones,Electronics,2,450.0,0.05,855.0,230.0,460.0,395.0,Bank Transfer,Returned
+ORD-00624,2025-06-02,CUST-1200,Greater Accra,Online,Smartphone,Electronics,7,2800.0,0.15,16660.0,1950.0,13650.0,3010.0,Mobile Money,Completed
+ORD-00625,2025-08-09,CUST-1059,Ashanti,Online,Office Chair,Furniture,2,950.0,0.1,1710.0,590.0,1180.0,530.0,Mobile Money,Completed
+ORD-00626,2025-03-26,CUST-1065,Ashanti,In-store,Office Chair,Furniture,6,950.0,0.05,5415.0,590.0,3540.0,1875.0,Mobile Money,Returned
+ORD-00627,2025-05-04,CUST-1196,Ashanti,In-store,Headphones,Electronics,4,450.0,0.15,1530.0,230.0,920.0,610.0,Mobile Money,Completed
+ORD-00628,2025-05-15,CUST-1205,Western,In-store,Headphones,Electronics,1,450.0,0.1,405.0,230.0,230.0,175.0,Mobile Money,Completed
+ORD-00629,2025-07-04,CUST-1071,Western,Phone,Laptop,Electronics,4,4200.0,0.1,15120.0,3000.0,12000.0,3120.0,Card,Completed
+ORD-00630,2025-05-14,CUST-1001,Northern,Phone,Laptop,Electronics,1,4200.0,0.0,4200.0,3000.0,3000.0,1200.0,Mobile Money,Completed
+ORD-00631,2025-09-26,CUST-1112,Northern,In-store,Smartphone,Electronics,4,2800.0,0.0,11200.0,1950.0,7800.0,3400.0,Mobile Money,Completed
+ORD-00632,2025-04-30,CUST-1155,Ashanti,In-store,Backpack,Accessories,5,320.0,0.2,1280.0,155.0,775.0,505.0,Card,Completed
+ORD-00633,2025-06-08,CUST-1111,Greater Accra,In-store,Monitor,Electronics,5,1650.0,0.05,7837.5,1120.0,5600.0,2237.5,Bank Transfer,Completed
+ORD-00634,2025-05-19,CUST-1234,Central,Online,Monitor,Electronics,3,1650.0,0.05,4702.5,1120.0,3360.0,1342.5,Mobile Money,Completed
+ORD-00635,2025-03-08,CUST-1204,Northern,Phone,Desk,Furniture,7,1250.0,0.05,8312.5,790.0,5530.0,2782.5,Mobile Money,Completed
+ORD-00636,2025-09-08,CUST-1197,Greater Accra,Online,Notebook Pack,Stationery,5,65.0,0.0,325.0,28.0,140.0,185.0,Mobile Money,Completed
+ORD-00637,2025-03-27,CUST-1006,Ashanti,In-store,Headphones,Electronics,3,450.0,0.15,1147.5,230.0,690.0,457.5,Cash,Completed
+ORD-00638,2025-04-19,CUST-1214,Ashanti,In-store,Backpack,Accessories,4,320.0,0.0,1280.0,155.0,620.0,660.0,Mobile Money,Completed
+ORD-00639,2025-10-17,CUST-1189,Greater Accra,In-store,Backpack,Accessories,1,320.0,0.1,288.0,155.0,155.0,133.0,Mobile Money,Completed
+ORD-00640,2025-12-13,CUST-1100,Western,Online,USB Drive,Accessories,8,95.0,0.05,722.0,42.0,336.0,386.0,Card,Completed
+ORD-00641,2025-09-02,CUST-1148,Ashanti,Online,USB Drive,Accessories,7,95.0,0.0,665.0,42.0,294.0,371.0,Mobile Money,Completed
+ORD-00642,2025-12-01,CUST-1207,Central,Online,Office Chair,Furniture,3,950.0,0.0,2850.0,590.0,1770.0,1080.0,Mobile Money,Completed
+ORD-00643,2025-11-08,CUST-1227,Eastern,In-store,Backpack,Accessories,6,320.0,0.1,1728.0,155.0,930.0,798.0,Mobile Money,Completed
+ORD-00644,2025-06-25,CUST-1138,Eastern,Phone,Backpack,Accessories,6,320.0,0.0,1920.0,155.0,930.0,990.0,Card,Completed
+ORD-00645,2025-10-09,CUST-1011,Ashanti,In-store,Headphones,Electronics,5,450.0,0.0,2250.0,230.0,1150.0,1100.0,Card,Completed
+ORD-00646,2025-04-30,CUST-1155,Greater Accra,Online,Monitor,Electronics,1,1650.0,0.1,1485.0,1120.0,1120.0,365.0,Card,Completed
+ORD-00647,2025-06-18,CUST-1171,Central,Phone,Laptop,Electronics,8,4200.0,0.0,33600.0,3000.0,24000.0,9600.0,Bank Transfer,Completed
+ORD-00648,2025-07-15,CUST-1015,Central,Online,Monitor,Electronics,8,1650.0,0.0,13200.0,1120.0,8960.0,4240.0,Mobile Money,Completed
+ORD-00649,2025-12-17,CUST-1205,Ashanti,Phone,Backpack,Accessories,8,320.0,0.0,2560.0,155.0,1240.0,1320.0,Cash,Completed
+ORD-00650,2025-11-06,CUST-1051,Eastern,In-store,Laptop,Electronics,8,4200.0,0.15,28560.0,3000.0,24000.0,4560.0,Bank Transfer,Completed
+ORD-00651,2025-06-28,CUST-1223,Greater Accra,Online,Printer Paper,Stationery,8,120.0,0.0,960.0,68.0,544.0,416.0,Bank Transfer,Completed
+ORD-00652,2025-08-27,CUST-1138,Eastern,In-store,Laptop,Electronics,6,4200.0,0.0,25200.0,3000.0,18000.0,7200.0,Bank Transfer,Completed
+ORD-00653,2025-03-15,CUST-1081,Greater Accra,Online,Backpack,Accessories,1,320.0,0.0,320.0,155.0,155.0,165.0,Mobile Money,Returned
+ORD-00654,2025-10-21,CUST-1015,Greater Accra,In-store,Backpack,Accessories,4,320.0,0.0,1280.0,155.0,620.0,660.0,Mobile Money,Completed
+ORD-00655,2025-07-21,CUST-1005,Ashanti,In-store,Notebook Pack,Stationery,2,65.0,0.0,130.0,28.0,56.0,74.0,Card,Completed
+ORD-00656,2025-07-14,CUST-1186,Greater Accra,In-store,USB Drive,Accessories,2,95.0,0.0,190.0,42.0,84.0,106.0,Mobile Money,Completed
+ORD-00657,2025-10-07,CUST-1095,Greater Accra,In-store,Laptop,Electronics,7,4200.0,0.0,29400.0,3000.0,21000.0,8400.0,Card,Completed
+ORD-00658,2025-08-20,CUST-1211,Greater Accra,Online,Headphones,Electronics,7,450.0,0.05,2992.5,230.0,1610.0,1382.5,Mobile Money,Returned
+ORD-00659,2025-01-27,CUST-1058,Ashanti,In-store,Office Chair,Furniture,5,950.0,0.15,4037.5,590.0,2950.0,1087.5,Mobile Money,Completed
+ORD-00660,2025-04-16,CUST-1231,Central,In-store,Laptop,Electronics,6,4200.0,0.0,25200.0,3000.0,18000.0,7200.0,Cash,Completed
+ORD-00661,2025-03-06,CUST-1236,Greater Accra,Phone,Office Chair,Furniture,2,950.0,0.0,1900.0,590.0,1180.0,720.0,Bank Transfer,Completed
+ORD-00662,2025-09-26,CUST-1026,Western,Phone,Headphones,Electronics,2,450.0,0.15,765.0,230.0,460.0,305.0,Card,Completed
+ORD-00663,2025-01-13,CUST-1162,Eastern,In-store,Office Chair,Furniture,7,950.0,0.15,5652.5,590.0,4130.0,1522.5,Mobile Money,Completed
+ORD-00664,2025-03-15,CUST-1235,Greater Accra,In-store,Office Chair,Furniture,4,950.0,0.1,3420.0,590.0,2360.0,1060.0,Card,Completed
+ORD-00665,2025-08-07,CUST-1081,Greater Accra,Online,USB Drive,Accessories,5,95.0,0.0,475.0,42.0,210.0,265.0,Cash,Returned
+ORD-00666,2025-09-11,CUST-1017,Eastern,Online,Headphones,Electronics,4,450.0,0.05,1710.0,230.0,920.0,790.0,Card,Completed
+ORD-00667,2025-07-03,CUST-1219,Eastern,In-store,USB Drive,Accessories,2,95.0,0.0,190.0,42.0,84.0,106.0,Card,Completed
+ORD-00668,2025-11-11,CUST-1119,Ashanti,Online,Office Chair,Furniture,7,950.0,0.0,6650.0,590.0,4130.0,2520.0,Card,Completed
+ORD-00669,2025-12-02,CUST-1007,Eastern,In-store,Headphones,Electronics,7,450.0,0.0,3150.0,230.0,1610.0,1540.0,Mobile Money,Completed
+ORD-00670,2025-02-18,CUST-1211,Greater Accra,In-store,Desk,Furniture,6,1250.0,0.05,7125.0,790.0,4740.0,2385.0,Bank Transfer,Completed
+ORD-00671,2025-12-14,CUST-1170,Ashanti,Online,Office Chair,Furniture,3,950.0,0.0,2850.0,590.0,1770.0,1080.0,Cash,Completed
+ORD-00672,2025-08-13,CUST-1018,Central,Online,Headphones,Electronics,6,450.0,0.1,2430.0,230.0,1380.0,1050.0,Card,Completed
+ORD-00673,2025-08-21,CUST-1065,Greater Accra,Online,Desk,Furniture,8,1250.0,0.0,10000.0,790.0,6320.0,3680.0,Mobile Money,Completed
+ORD-00674,2025-02-04,CUST-1005,Central,In-store,Smartphone,Electronics,6,2800.0,0.0,16800.0,1950.0,11700.0,5100.0,Card,Completed
+ORD-00675,2025-08-15,CUST-1239,Ashanti,In-store,Headphones,Electronics,4,450.0,0.1,1620.0,230.0,920.0,700.0,Card,Completed
+ORD-00676,2025-09-22,CUST-1007,Central,In-store,Notebook Pack,Stationery,3,65.0,0.15,165.75,28.0,84.0,81.75,Cash,Completed
+ORD-00677,2025-07-31,CUST-1199,Ashanti,In-store,Office Chair,Furniture,5,950.0,0.0,4750.0,590.0,2950.0,1800.0,Bank Transfer,Completed
+ORD-00678,2025-01-31,CUST-1128,Ashanti,In-store,Backpack,Accessories,3,320.0,0.05,912.0,155.0,465.0,447.0,Mobile Money,Returned
+ORD-00679,2025-07-10,CUST-1146,Greater Accra,Online,Headphones,Electronics,5,450.0,0.0,2250.0,230.0,1150.0,1100.0,Mobile Money,Returned
+ORD-00680,2025-12-08,CUST-1203,Greater Accra,Online,Monitor,Electronics,1,1650.0,0.0,1650.0,1120.0,1120.0,530.0,Card,Completed
+ORD-00681,2025-09-22,CUST-1224,Central,Online,Backpack,Accessories,2,320.0,0.1,576.0,155.0,310.0,266.0,Mobile Money,Completed
+ORD-00682,2025-02-20,CUST-1032,Greater Accra,In-store,Monitor,Electronics,7,1650.0,0.0,11550.0,1120.0,7840.0,3710.0,Card,Completed
+ORD-00683,2025-12-17,CUST-1005,Greater Accra,In-store,USB Drive,Accessories,4,95.0,0.05,361.0,42.0,168.0,193.0,Bank Transfer,Completed
+ORD-00684,2025-12-16,CUST-1032,Greater Accra,Online,Smartphone,Electronics,4,2800.0,0.05,10640.0,1950.0,7800.0,2840.0,Card,Completed
+ORD-00685,2025-03-03,CUST-1171,Greater Accra,In-store,Notebook Pack,Stationery,5,65.0,0.0,325.0,28.0,140.0,185.0,Mobile Money,Completed
+ORD-00686,2025-10-20,CUST-1143,Eastern,Phone,Smartphone,Electronics,4,2800.0,0.0,11200.0,1950.0,7800.0,3400.0,Bank Transfer,Completed
+ORD-00687,2025-05-29,CUST-1021,Ashanti,In-store,Backpack,Accessories,7,320.0,0.0,2240.0,155.0,1085.0,1155.0,Bank Transfer,Completed
+ORD-00688,2025-08-05,CUST-1059,Northern,Online,Notebook Pack,Stationery,2,65.0,0.2,104.0,28.0,56.0,48.0,Mobile Money,Completed
+ORD-00689,2025-06-12,CUST-1135,Greater Accra,Phone,Headphones,Electronics,7,450.0,0.1,2835.0,230.0,1610.0,1225.0,Card,Completed
+ORD-00690,2025-10-13,CUST-1183,Western,Online,Monitor,Electronics,2,1650.0,0.0,3300.0,1120.0,2240.0,1060.0,Card,Completed
+ORD-00691,2025-12-30,CUST-1086,Ashanti,Online,Smartphone,Electronics,3,2800.0,0.0,8400.0,1950.0,5850.0,2550.0,Bank Transfer,Completed
+ORD-00692,2025-10-18,CUST-1238,Ashanti,Online,Notebook Pack,Stationery,5,65.0,0.1,292.5,28.0,140.0,152.5,Mobile Money,Completed
+ORD-00693,2025-12-06,CUST-1249,Eastern,In-store,Printer Paper,Stationery,8,120.0,0.0,960.0,68.0,544.0,416.0,Mobile Money,Completed
+ORD-00694,2025-12-12,CUST-1192,Northern,Online,Laptop,Electronics,2,4200.0,0.05,7980.0,3000.0,6000.0,1980.0,Card,Completed
+ORD-00695,2025-02-02,CUST-1114,Eastern,Phone,Notebook Pack,Stationery,5,65.0,0.1,292.5,28.0,140.0,152.5,Mobile Money,Completed
+ORD-00696,2025-04-03,CUST-1220,Greater Accra,Phone,Backpack,Accessories,1,320.0,0.05,304.0,155.0,155.0,149.0,Card,Returned
+ORD-00697,2025-09-21,CUST-1182,Greater Accra,In-store,Laptop,Electronics,1,4200.0,0.0,4200.0,3000.0,3000.0,1200.0,Bank Transfer,Completed
+ORD-00698,2025-08-04,CUST-1130,Western,In-store,Desk,Furniture,7,1250.0,0.0,8750.0,790.0,5530.0,3220.0,Mobile Money,Completed
+ORD-00699,2025-01-19,CUST-1111,Greater Accra,Online,Headphones,Electronics,6,450.0,0.0,2700.0,230.0,1380.0,1320.0,Card,Completed
+ORD-00700,2025-02-04,CUST-1209,Central,Online,Printer Paper,Stationery,4,120.0,0.05,456.0,68.0,272.0,184.0,Cash,Completed
+ORD-00701,2025-07-09,CUST-1140,Western,In-store,Smartphone,Electronics,5,2800.0,0.15,11900.0,1950.0,9750.0,2150.0,Card,Completed
+ORD-00702,2025-08-13,CUST-1046,Ashanti,In-store,Monitor,Electronics,4,1650.0,0.0,6600.0,1120.0,4480.0,2120.0,Card,Completed
+ORD-00703,2025-03-03,CUST-1250,Eastern,In-store,USB Drive,Accessories,3,95.0,0.05,270.75,42.0,126.0,144.75,Card,Completed
+ORD-00704,2025-03-04,CUST-1018,Central,In-store,Smartphone,Electronics,4,2800.0,0.1,10080.0,1950.0,7800.0,2280.0,Mobile Money,Returned
+ORD-00705,2025-02-17,CUST-1174,Greater Accra,In-store,Headphones,Electronics,3,450.0,0.0,1350.0,230.0,690.0,660.0,Mobile Money,Completed
+ORD-00706,2025-07-26,CUST-1164,Greater Accra,In-store,Notebook Pack,Stationery,7,65.0,0.0,455.0,28.0,196.0,259.0,Card,Completed
+ORD-00707,2025-01-03,CUST-1147,Western,In-store,Printer Paper,Stationery,4,120.0,0.0,480.0,68.0,272.0,208.0,Mobile Money,Completed
+ORD-00708,2025-07-28,CUST-1013,Ashanti,Phone,Office Chair,Furniture,3,950.0,0.1,2565.0,590.0,1770.0,795.0,Mobile Money,Completed
+ORD-00709,2025-06-23,CUST-1124,Greater Accra,In-store,Smartphone,Electronics,5,2800.0,0.05,13300.0,1950.0,9750.0,3550.0,Mobile Money,Completed
+ORD-00710,2025-06-20,CUST-1224,Ashanti,In-store,Smartphone,Electronics,7,2800.0,0.1,17640.0,1950.0,13650.0,3990.0,Bank Transfer,Completed
+ORD-00711,2025-09-05,CUST-1060,Central,In-store,Monitor,Electronics,3,1650.0,0.15,4207.5,1120.0,3360.0,847.5,Mobile Money,Completed
+ORD-00712,2025-07-10,CUST-1173,Eastern,In-store,Desk,Furniture,8,1250.0,0.1,9000.0,790.0,6320.0,2680.0,Bank Transfer,Completed
+ORD-00713,2025-09-23,CUST-1215,Western,Phone,USB Drive,Accessories,4,95.0,0.2,304.0,42.0,168.0,136.0,Mobile Money,Completed
+ORD-00714,2025-10-06,CUST-1239,Ashanti,Phone,Desk,Furniture,6,1250.0,0.1,6750.0,790.0,4740.0,2010.0,Card,Completed
+ORD-00715,2025-12-02,CUST-1130,Greater Accra,In-store,Monitor,Electronics,8,1650.0,0.15,11220.0,1120.0,8960.0,2260.0,Mobile Money,Completed
+ORD-00716,2025-10-19,CUST-1079,Ashanti,In-store,Laptop,Electronics,4,4200.0,0.15,14280.0,3000.0,12000.0,2280.0,Mobile Money,Completed
+ORD-00717,2025-07-08,CUST-1175,Greater Accra,In-store,Smartphone,Electronics,2,2800.0,0.1,5040.0,1950.0,3900.0,1140.0,Card,Completed
+ORD-00718,2025-06-29,CUST-1122,Western,In-store,Monitor,Electronics,6,1650.0,0.1,8910.0,1120.0,6720.0,2190.0,Bank Transfer,Completed
+ORD-00719,2025-03-28,CUST-1157,Western,In-store,Monitor,Electronics,1,1650.0,0.15,1402.5,1120.0,1120.0,282.5,Mobile Money,Completed
+ORD-00720,2025-08-07,CUST-1186,Greater Accra,In-store,Headphones,Electronics,4,450.0,0.05,1710.0,230.0,920.0,790.0,Card,Completed
+ORD-00721,2025-02-20,CUST-1178,Greater Accra,In-store,Headphones,Electronics,8,450.0,0.1,3240.0,230.0,1840.0,1400.0,Card,Completed
+ORD-00722,2025-12-06,CUST-1061,Greater Accra,Online,Desk,Furniture,4,1250.0,0.05,4750.0,790.0,3160.0,1590.0,Mobile Money,Completed
+ORD-00723,2025-11-05,CUST-1189,Eastern,In-store,Office Chair,Furniture,6,950.0,0.15,4845.0,590.0,3540.0,1305.0,Card,Completed
+ORD-00724,2025-02-13,CUST-1136,Western,In-store,Smartphone,Electronics,5,2800.0,0.05,13300.0,1950.0,9750.0,3550.0,Mobile Money,Completed
+ORD-00725,2025-10-14,CUST-1233,Greater Accra,Online,USB Drive,Accessories,2,95.0,0.1,171.0,42.0,84.0,87.0,Card,Completed
+ORD-00726,2025-02-12,CUST-1165,Eastern,In-store,Headphones,Electronics,3,450.0,0.1,1215.0,230.0,690.0,525.0,Mobile Money,Completed
+ORD-00727,2025-09-21,CUST-1223,Ashanti,In-store,Printer Paper,Stationery,5,120.0,0.2,480.0,68.0,340.0,140.0,Card,Completed
+ORD-00728,2025-02-02,CUST-1245,Ashanti,In-store,Laptop,Electronics,1,4200.0,0.0,4200.0,3000.0,3000.0,1200.0,Mobile Money,Completed
+ORD-00729,2025-06-28,CUST-1249,Northern,In-store,Laptop,Electronics,4,4200.0,0.1,15120.0,3000.0,12000.0,3120.0,Card,Completed
+ORD-00730,2025-08-29,CUST-1187,Greater Accra,In-store,Printer Paper,Stationery,4,120.0,0.1,432.0,68.0,272.0,160.0,Card,Returned
+ORD-00731,2025-09-24,CUST-1150,Greater Accra,Online,Headphones,Electronics,7,450.0,0.15,2677.5,230.0,1610.0,1067.5,Cash,Completed
+ORD-00732,2025-06-02,CUST-1030,Western,Phone,Printer Paper,Stationery,1,120.0,0.15,102.0,68.0,68.0,34.0,Card,Completed
+ORD-00733,2025-12-03,CUST-1097,Greater Accra,In-store,Laptop,Electronics,7,4200.0,0.05,27930.0,3000.0,21000.0,6930.0,Bank Transfer,Completed
+ORD-00734,2025-10-10,CUST-1119,Western,In-store,Monitor,Electronics,4,1650.0,0.05,6270.0,1120.0,4480.0,1790.0,Mobile Money,Completed
+ORD-00735,2025-03-18,CUST-1196,Greater Accra,Online,Backpack,Accessories,6,320.0,0.0,1920.0,155.0,930.0,990.0,Mobile Money,Completed
+ORD-00736,2025-09-02,CUST-1148,Greater Accra,Online,USB Drive,Accessories,5,95.0,0.2,380.0,42.0,210.0,170.0,Mobile Money,Completed
+ORD-00737,2025-09-24,CUST-1110,Greater Accra,In-store,Smartphone,Electronics,3,2800.0,0.0,8400.0,1950.0,5850.0,2550.0,Card,Completed
+ORD-00738,2025-05-02,CUST-1037,Ashanti,In-store,Headphones,Electronics,8,450.0,0.1,3240.0,230.0,1840.0,1400.0,Card,Completed
+ORD-00739,2025-09-27,CUST-1179,Greater Accra,In-store,Headphones,Electronics,2,450.0,0.1,810.0,230.0,460.0,350.0,Bank Transfer,Completed
+ORD-00740,2025-11-24,CUST-1108,Greater Accra,Online,Notebook Pack,Stationery,1,65.0,0.05,61.75,28.0,28.0,33.75,Card,Completed
+ORD-00741,2025-10-26,CUST-1010,Eastern,In-store,Headphones,Electronics,7,450.0,0.0,3150.0,230.0,1610.0,1540.0,Card,Completed
+ORD-00742,2025-10-06,CUST-1072,Greater Accra,In-store,Laptop,Electronics,5,4200.0,0.0,21000.0,3000.0,15000.0,6000.0,Mobile Money,Completed
+ORD-00743,2025-08-20,CUST-1220,Ashanti,In-store,Headphones,Electronics,8,450.0,0.15,3060.0,230.0,1840.0,1220.0,Mobile Money,Completed
+ORD-00744,2025-04-09,CUST-1030,Greater Accra,In-store,Headphones,Electronics,4,450.0,0.05,1710.0,230.0,920.0,790.0,Bank Transfer,Completed
+ORD-00745,2025-10-18,CUST-1102,Ashanti,Online,Office Chair,Furniture,1,950.0,0.0,950.0,590.0,590.0,360.0,Mobile Money,Completed
+ORD-00746,2025-05-13,CUST-1129,Greater Accra,Online,Smartphone,Electronics,1,2800.0,0.1,2520.0,1950.0,1950.0,570.0,Mobile Money,Returned
+ORD-00747,2025-07-14,CUST-1021,Western,Online,Headphones,Electronics,4,450.0,0.0,1800.0,230.0,920.0,880.0,Cash,Completed
+ORD-00748,2025-04-25,CUST-1042,Greater Accra,In-store,Notebook Pack,Stationery,2,65.0,0.15,110.5,28.0,56.0,54.5,Cash,Completed
+ORD-00749,2025-04-25,CUST-1236,Eastern,In-store,Office Chair,Furniture,8,950.0,0.0,7600.0,590.0,4720.0,2880.0,Card,Completed
+ORD-00750,2025-02-27,CUST-1148,Northern,Online,Headphones,Electronics,1,450.0,0.0,450.0,230.0,230.0,220.0,Mobile Money,Completed
+ORD-00751,2025-12-17,CUST-1053,Greater Accra,Online,Notebook Pack,Stationery,8,65.0,0.0,520.0,28.0,224.0,296.0,Bank Transfer,Completed
+ORD-00752,2025-02-23,CUST-1043,Greater Accra,In-store,Backpack,Accessories,2,320.0,0.05,608.0,155.0,310.0,298.0,Mobile Money,Completed
+ORD-00753,2025-02-01,CUST-1107,Greater Accra,In-store,Office Chair,Furniture,1,950.0,0.05,902.5,590.0,590.0,312.5,Card,Completed
+ORD-00754,2025-12-08,CUST-1181,Western,Online,Notebook Pack,Stationery,3,65.0,0.1,175.5,28.0,84.0,91.5,Mobile Money,Completed
+ORD-00755,2025-07-22,CUST-1183,Greater Accra,Online,Monitor,Electronics,2,1650.0,0.05,3135.0,1120.0,2240.0,895.0,Cash,Completed
+ORD-00756,2025-06-09,CUST-1049,Eastern,Phone,Notebook Pack,Stationery,4,65.0,0.0,260.0,28.0,112.0,148.0,Cash,Completed
+ORD-00757,2025-09-27,CUST-1182,Central,Online,USB Drive,Accessories,3,95.0,0.0,285.0,42.0,126.0,159.0,Card,Completed
+ORD-00758,2025-05-20,CUST-1225,Eastern,In-store,Backpack,Accessories,5,320.0,0.0,1600.0,155.0,775.0,825.0,Mobile Money,Completed
+ORD-00759,2025-02-16,CUST-1057,Ashanti,In-store,Laptop,Electronics,5,4200.0,0.15,17850.0,3000.0,15000.0,2850.0,Card,Completed
+ORD-00760,2025-09-24,CUST-1007,Northern,In-store,Office Chair,Furniture,1,950.0,0.0,950.0,590.0,590.0,360.0,Mobile Money,Completed
+ORD-00761,2025-03-06,CUST-1240,Greater Accra,Online,Printer Paper,Stationery,1,120.0,0.2,96.0,68.0,68.0,28.0,Cash,Completed
+ORD-00762,2025-07-21,CUST-1131,Ashanti,Online,Monitor,Electronics,2,1650.0,0.0,3300.0,1120.0,2240.0,1060.0,Mobile Money,Completed
+ORD-00763,2025-12-13,CUST-1195,Greater Accra,In-store,Desk,Furniture,2,1250.0,0.0,2500.0,790.0,1580.0,920.0,Mobile Money,Completed
+ORD-00764,2025-12-08,CUST-1081,Northern,Phone,Laptop,Electronics,1,4200.0,0.0,4200.0,3000.0,3000.0,1200.0,Bank Transfer,Completed
+ORD-00765,2025-05-12,CUST-1075,Western,In-store,Notebook Pack,Stationery,3,65.0,0.0,195.0,28.0,84.0,111.0,Card,Completed
+ORD-00766,2025-10-12,CUST-1057,Central,In-store,Smartphone,Electronics,5,2800.0,0.1,12600.0,1950.0,9750.0,2850.0,Bank Transfer,Completed
+ORD-00767,2025-08-12,CUST-1055,Greater Accra,In-store,Backpack,Accessories,3,320.0,0.05,912.0,155.0,465.0,447.0,Mobile Money,Completed
+ORD-00768,2025-06-24,CUST-1118,Northern,Phone,Desk,Furniture,3,1250.0,0.0,3750.0,790.0,2370.0,1380.0,Bank Transfer,Completed
+ORD-00769,2025-02-21,CUST-1027,Ashanti,Phone,Printer Paper,Stationery,4,120.0,0.1,432.0,68.0,272.0,160.0,Mobile Money,Completed
+ORD-00770,2025-05-18,CUST-1211,Ashanti,Online,USB Drive,Accessories,5,95.0,0.1,427.5,42.0,210.0,217.5,Mobile Money,Completed
+ORD-00771,2025-08-26,CUST-1128,Northern,Phone,Notebook Pack,Stationery,3,65.0,0.15,165.75,28.0,84.0,81.75,Card,Completed
+ORD-00772,2025-12-27,CUST-1229,Ashanti,Phone,Notebook Pack,Stationery,2,65.0,0.2,104.0,28.0,56.0,48.0,Mobile Money,Completed
+ORD-00773,2025-01-02,CUST-1126,Ashanti,Online,Backpack,Accessories,4,320.0,0.1,1152.0,155.0,620.0,532.0,Card,Completed
+ORD-00774,2025-09-19,CUST-1076,Western,Phone,USB Drive,Accessories,1,95.0,0.1,85.5,42.0,42.0,43.5,Mobile Money,Completed
+ORD-00775,2025-11-05,CUST-1129,Greater Accra,In-store,USB Drive,Accessories,4,95.0,0.1,342.0,42.0,168.0,174.0,Mobile Money,Completed
+ORD-00776,2025-12-14,CUST-1039,Greater Accra,Online,Laptop,Electronics,8,4200.0,0.05,31920.0,3000.0,24000.0,7920.0,Bank Transfer,Completed
+ORD-00777,2025-06-04,CUST-1207,Greater Accra,Online,Notebook Pack,Stationery,4,65.0,0.1,234.0,28.0,112.0,122.0,Mobile Money,Completed
+ORD-00778,2025-02-13,CUST-1181,Greater Accra,Online,Smartphone,Electronics,1,2800.0,0.0,2800.0,1950.0,1950.0,850.0,Card,Completed
+ORD-00779,2025-04-09,CUST-1037,Eastern,In-store,USB Drive,Accessories,6,95.0,0.1,513.0,42.0,252.0,261.0,Bank Transfer,Completed
+ORD-00780,2025-11-07,CUST-1146,Western,Online,Printer Paper,Stationery,2,120.0,0.2,192.0,68.0,136.0,56.0,Mobile Money,Completed
+ORD-00781,2025-11-17,CUST-1135,Ashanti,Phone,Office Chair,Furniture,2,950.0,0.0,1900.0,590.0,1180.0,720.0,Bank Transfer,Completed
+ORD-00782,2025-08-21,CUST-1051,Ashanti,In-store,Smartphone,Electronics,2,2800.0,0.15,4760.0,1950.0,3900.0,860.0,Mobile Money,Completed
+ORD-00783,2025-02-14,CUST-1031,Ashanti,Phone,Headphones,Electronics,8,450.0,0.15,3060.0,230.0,1840.0,1220.0,Mobile Money,Completed
+ORD-00784,2025-02-14,CUST-1191,Western,In-store,Printer Paper,Stationery,8,120.0,0.0,960.0,68.0,544.0,416.0,Mobile Money,Completed
+ORD-00785,2025-06-24,CUST-1067,Northern,In-store,Smartphone,Electronics,5,2800.0,0.05,13300.0,1950.0,9750.0,3550.0,Bank Transfer,Returned
+ORD-00786,2025-08-03,CUST-1130,Northern,In-store,Laptop,Electronics,5,4200.0,0.15,17850.0,3000.0,15000.0,2850.0,Card,Completed
+ORD-00787,2025-01-12,CUST-1062,Ashanti,Online,USB Drive,Accessories,6,95.0,0.2,456.0,42.0,252.0,204.0,Card,Completed
+ORD-00788,2025-09-08,CUST-1164,Greater Accra,Online,Backpack,Accessories,5,320.0,0.0,1600.0,155.0,775.0,825.0,Cash,Completed
+ORD-00789,2025-07-18,CUST-1013,Ashanti,In-store,Smartphone,Electronics,5,2800.0,0.0,14000.0,1950.0,9750.0,4250.0,Mobile Money,Completed
+ORD-00790,2025-01-05,CUST-1090,Western,Online,Headphones,Electronics,8,450.0,0.1,3240.0,230.0,1840.0,1400.0,Cash,Completed
+ORD-00791,2025-02-04,CUST-1137,Ashanti,In-store,Monitor,Electronics,6,1650.0,0.0,9900.0,1120.0,6720.0,3180.0,Bank Transfer,Completed
+ORD-00792,2025-06-15,CUST-1110,Western,In-store,Printer Paper,Stationery,1,120.0,0.0,120.0,68.0,68.0,52.0,Cash,Completed
+ORD-00793,2025-09-21,CUST-1154,Ashanti,Phone,Notebook Pack,Stationery,4,65.0,0.0,260.0,28.0,112.0,148.0,Cash,Completed
+ORD-00794,2025-10-29,CUST-1046,Greater Accra,Online,Headphones,Electronics,8,450.0,0.0,3600.0,230.0,1840.0,1760.0,Cash,Completed
+ORD-00795,2025-06-07,CUST-1111,Ashanti,Online,Headphones,Electronics,4,450.0,0.05,1710.0,230.0,920.0,790.0,Mobile Money,Completed
+ORD-00796,2025-04-18,CUST-1190,Ashanti,Online,Laptop,Electronics,2,4200.0,0.1,7560.0,3000.0,6000.0,1560.0,Bank Transfer,Returned
+ORD-00797,2025-12-20,CUST-1084,Greater Accra,Phone,Printer Paper,Stationery,7,120.0,0.1,756.0,68.0,476.0,280.0,Bank Transfer,Completed
+ORD-00798,2025-06-17,CUST-1040,Greater Accra,In-store,Laptop,Electronics,5,4200.0,0.1,18900.0,3000.0,15000.0,3900.0,Card,Completed
+ORD-00799,2025-04-26,CUST-1212,Central,In-store,Laptop,Electronics,5,4200.0,0.05,19950.0,3000.0,15000.0,4950.0,Mobile Money,Completed
+ORD-00800,2025-06-11,CUST-1195,Ashanti,In-store,Printer Paper,Stationery,4,120.0,0.0,480.0,68.0,272.0,208.0,Cash,Completed
+ORD-00801,2025-01-05,CUST-1171,Greater Accra,Online,Monitor,Electronics,1,1650.0,0.0,1650.0,1120.0,1120.0,530.0,Mobile Money,Completed
+ORD-00802,2025-04-21,CUST-1200,Western,Online,Backpack,Accessories,4,320.0,0.0,1280.0,155.0,620.0,660.0,Card,Completed
+ORD-00803,2025-07-08,CUST-1195,Central,Online,Desk,Furniture,4,1250.0,0.0,5000.0,790.0,3160.0,1840.0,Card,Completed
+ORD-00804,2025-12-02,CUST-1187,Greater Accra,In-store,Desk,Furniture,8,1250.0,0.0,10000.0,790.0,6320.0,3680.0,Mobile Money,Completed
+ORD-00805,2025-09-27,CUST-1128,Eastern,In-store,Office Chair,Furniture,3,950.0,0.0,2850.0,590.0,1770.0,1080.0,Bank Transfer,Completed
+ORD-00806,2025-10-13,CUST-1005,Northern,Online,Headphones,Electronics,2,450.0,0.0,900.0,230.0,460.0,440.0,Mobile Money,Completed
+ORD-00807,2025-07-18,CUST-1150,Western,Phone,Notebook Pack,Stationery,4,65.0,0.1,234.0,28.0,112.0,122.0,Bank Transfer,Completed
+ORD-00808,2025-02-10,CUST-1069,Western,In-store,Office Chair,Furniture,8,950.0,0.1,6840.0,590.0,4720.0,2120.0,Bank Transfer,Completed
+ORD-00809,2025-05-23,CUST-1194,Greater Accra,In-store,Notebook Pack,Stationery,4,65.0,0.15,221.0,28.0,112.0,109.0,Mobile Money,Completed
+ORD-00810,2025-12-30,CUST-1118,Northern,In-store,USB Drive,Accessories,4,95.0,0.1,342.0,42.0,168.0,174.0,Bank Transfer,Completed
+ORD-00811,2025-01-17,CUST-1227,Ashanti,In-store,Monitor,Electronics,6,1650.0,0.05,9405.0,1120.0,6720.0,2685.0,Mobile Money,Completed
+ORD-00812,2025-11-17,CUST-1149,Northern,In-store,Laptop,Electronics,6,4200.0,0.0,25200.0,3000.0,18000.0,7200.0,Bank Transfer,Completed
+ORD-00813,2025-09-07,CUST-1138,Western,In-store,Office Chair,Furniture,3,950.0,0.05,2707.5,590.0,1770.0,937.5,Cash,Completed
+ORD-00814,2025-04-14,CUST-1230,Greater Accra,Online,Smartphone,Electronics,8,2800.0,0.0,22400.0,1950.0,15600.0,6800.0,Mobile Money,Completed
+ORD-00815,2025-10-11,CUST-1119,Greater Accra,In-store,Headphones,Electronics,5,450.0,0.05,2137.5,230.0,1150.0,987.5,Bank Transfer,Completed
+ORD-00816,2025-11-02,CUST-1094,Western,In-store,Headphones,Electronics,1,450.0,0.0,450.0,230.0,230.0,220.0,Card,Completed
+ORD-00817,2025-01-16,CUST-1093,Western,In-store,Smartphone,Electronics,4,2800.0,0.05,10640.0,1950.0,7800.0,2840.0,Card,Completed
+ORD-00818,2025-02-08,CUST-1219,Greater Accra,Phone,Backpack,Accessories,8,320.0,0.0,2560.0,155.0,1240.0,1320.0,Bank Transfer,Returned
+ORD-00819,2025-08-31,CUST-1190,Central,In-store,Desk,Furniture,4,1250.0,0.1,4500.0,790.0,3160.0,1340.0,Card,Completed
+ORD-00820,2025-12-31,CUST-1041,Eastern,In-store,Monitor,Electronics,5,1650.0,0.15,7012.5,1120.0,5600.0,1412.5,Card,Completed
+ORD-00821,2025-01-09,CUST-1124,Ashanti,In-store,Laptop,Electronics,5,4200.0,0.1,18900.0,3000.0,15000.0,3900.0,Mobile Money,Completed
+ORD-00822,2025-08-31,CUST-1093,Ashanti,Online,Laptop,Electronics,6,4200.0,0.1,22680.0,3000.0,18000.0,4680.0,Mobile Money,Completed
+ORD-00823,2025-02-19,CUST-1162,Greater Accra,Phone,Office Chair,Furniture,7,950.0,0.05,6317.5,590.0,4130.0,2187.5,Cash,Completed
+ORD-00824,2025-08-26,CUST-1014,Central,In-store,Laptop,Electronics,2,4200.0,0.0,8400.0,3000.0,6000.0,2400.0,Mobile Money,Returned
+ORD-00825,2025-08-16,CUST-1179,Greater Accra,In-store,Headphones,Electronics,5,450.0,0.1,2025.0,230.0,1150.0,875.0,Card,Completed
+ORD-00826,2025-02-03,CUST-1186,Eastern,In-store,Monitor,Electronics,5,1650.0,0.05,7837.5,1120.0,5600.0,2237.5,Mobile Money,Completed
+ORD-00827,2025-09-06,CUST-1057,Ashanti,Online,Smartphone,Electronics,2,2800.0,0.0,5600.0,1950.0,3900.0,1700.0,Bank Transfer,Returned
+ORD-00828,2025-11-24,CUST-1038,Western,Phone,Smartphone,Electronics,6,2800.0,0.0,16800.0,1950.0,11700.0,5100.0,Card,Completed
+ORD-00829,2025-11-12,CUST-1157,Greater Accra,In-store,Notebook Pack,Stationery,1,65.0,0.15,55.25,28.0,28.0,27.25,Card,Completed
+ORD-00830,2025-01-11,CUST-1065,Greater Accra,In-store,Desk,Furniture,4,1250.0,0.1,4500.0,790.0,3160.0,1340.0,Mobile Money,Completed
+ORD-00831,2025-03-31,CUST-1236,Central,Online,Notebook Pack,Stationery,3,65.0,0.05,185.25,28.0,84.0,101.25,Card,Completed
+ORD-00832,2025-03-29,CUST-1194,Ashanti,Online,Office Chair,Furniture,2,950.0,0.1,1710.0,590.0,1180.0,530.0,Cash,Completed
+ORD-00833,2025-06-15,CUST-1239,Ashanti,In-store,Backpack,Accessories,7,320.0,0.05,2128.0,155.0,1085.0,1043.0,Card,Completed
+ORD-00834,2025-02-22,CUST-1134,Northern,In-store,Smartphone,Electronics,2,2800.0,0.05,5320.0,1950.0,3900.0,1420.0,Card,Completed
+ORD-00835,2025-11-08,CUST-1235,Northern,In-store,Office Chair,Furniture,3,950.0,0.0,2850.0,590.0,1770.0,1080.0,Bank Transfer,Completed
+ORD-00836,2025-10-11,CUST-1004,Eastern,Online,Printer Paper,Stationery,7,120.0,0.05,798.0,68.0,476.0,322.0,Mobile Money,Completed
+ORD-00837,2025-10-23,CUST-1073,Greater Accra,Online,USB Drive,Accessories,8,95.0,0.1,684.0,42.0,336.0,348.0,Card,Completed
+ORD-00838,2025-03-14,CUST-1001,Western,Online,Headphones,Electronics,1,450.0,0.0,450.0,230.0,230.0,220.0,Mobile Money,Completed
+ORD-00839,2025-01-06,CUST-1170,Eastern,Online,Notebook Pack,Stationery,3,65.0,0.1,175.5,28.0,84.0,91.5,Mobile Money,Completed
+ORD-00840,2025-11-29,CUST-1128,Ashanti,In-store,Laptop,Electronics,6,4200.0,0.0,25200.0,3000.0,18000.0,7200.0,Bank Transfer,Completed
+ORD-00841,2025-04-16,CUST-1072,Greater Accra,In-store,Smartphone,Electronics,7,2800.0,0.1,17640.0,1950.0,13650.0,3990.0,Cash,Completed
+ORD-00842,2025-08-28,CUST-1077,Eastern,In-store,Laptop,Electronics,8,4200.0,0.1,30240.0,3000.0,24000.0,6240.0,Cash,Completed
+ORD-00843,2025-11-28,CUST-1161,Ashanti,Phone,Printer Paper,Stationery,5,120.0,0.1,540.0,68.0,340.0,200.0,Cash,Completed
+ORD-00844,2025-01-14,CUST-1046,Western,Online,Headphones,Electronics,1,450.0,0.1,405.0,230.0,230.0,175.0,Card,Completed
+ORD-00845,2025-01-02,CUST-1129,Northern,In-store,Printer Paper,Stationery,7,120.0,0.2,672.0,68.0,476.0,196.0,Mobile Money,Completed
+ORD-00846,2025-01-02,CUST-1154,Western,In-store,Laptop,Electronics,2,4200.0,0.05,7980.0,3000.0,6000.0,1980.0,Card,Completed
+ORD-00847,2025-02-27,CUST-1060,Ashanti,Online,USB Drive,Accessories,1,95.0,0.1,85.5,42.0,42.0,43.5,Cash,Completed
+ORD-00848,2025-01-19,CUST-1058,Ashanti,Online,USB Drive,Accessories,6,95.0,0.1,513.0,42.0,252.0,261.0,Bank Transfer,Completed
+ORD-00849,2025-10-27,CUST-1089,Ashanti,Online,Laptop,Electronics,5,4200.0,0.0,21000.0,3000.0,15000.0,6000.0,Card,Completed
+ORD-00850,2025-08-10,CUST-1149,Greater Accra,In-store,Laptop,Electronics,1,4200.0,0.0,4200.0,3000.0,3000.0,1200.0,Bank Transfer,Completed
+ORD-00851,2025-12-24,CUST-1064,Central,Phone,Laptop,Electronics,2,4200.0,0.05,7980.0,3000.0,6000.0,1980.0,Bank Transfer,Completed
+ORD-00852,2025-10-20,CUST-1095,Eastern,Online,USB Drive,Accessories,5,95.0,0.0,475.0,42.0,210.0,265.0,Cash,Completed
+ORD-00853,2025-12-18,CUST-1136,Greater Accra,Online,Headphones,Electronics,3,450.0,0.0,1350.0,230.0,690.0,660.0,Bank Transfer,Returned
+ORD-00854,2025-03-29,CUST-1047,Greater Accra,Online,Notebook Pack,Stationery,6,65.0,0.0,390.0,28.0,168.0,222.0,Card,Completed
+ORD-00855,2025-04-16,CUST-1143,Eastern,Phone,Office Chair,Furniture,4,950.0,0.1,3420.0,590.0,2360.0,1060.0,Mobile Money,Completed
+ORD-00856,2025-11-07,CUST-1035,Greater Accra,Phone,Backpack,Accessories,5,320.0,0.0,1600.0,155.0,775.0,825.0,Card,Completed
+ORD-00857,2025-03-31,CUST-1036,Ashanti,Online,Desk,Furniture,4,1250.0,0.1,4500.0,790.0,3160.0,1340.0,Mobile Money,Completed
+ORD-00858,2025-01-21,CUST-1060,Ashanti,In-store,Desk,Furniture,3,1250.0,0.05,3562.5,790.0,2370.0,1192.5,Cash,Completed
+ORD-00859,2025-09-02,CUST-1072,Central,In-store,Monitor,Electronics,3,1650.0,0.1,4455.0,1120.0,3360.0,1095.0,Card,Completed
+ORD-00860,2025-10-20,CUST-1008,Greater Accra,Online,Smartphone,Electronics,6,2800.0,0.0,16800.0,1950.0,11700.0,5100.0,Card,Completed
+ORD-00861,2025-12-20,CUST-1241,Western,Online,USB Drive,Accessories,5,95.0,0.05,451.25,42.0,210.0,241.25,Mobile Money,Completed
+ORD-00862,2025-12-05,CUST-1078,Ashanti,In-store,Laptop,Electronics,5,4200.0,0.0,21000.0,3000.0,15000.0,6000.0,Card,Completed
+ORD-00863,2025-02-13,CUST-1202,Western,In-store,Desk,Furniture,5,1250.0,0.1,5625.0,790.0,3950.0,1675.0,Card,Completed
+ORD-00864,2025-10-09,CUST-1226,Greater Accra,Phone,USB Drive,Accessories,2,95.0,0.0,190.0,42.0,84.0,106.0,Mobile Money,Completed
+ORD-00865,2025-11-05,CUST-1201,Ashanti,Phone,Printer Paper,Stationery,8,120.0,0.2,768.0,68.0,544.0,224.0,Cash,Completed
+ORD-00866,2025-09-12,CUST-1208,Ashanti,Phone,Printer Paper,Stationery,5,120.0,0.0,600.0,68.0,340.0,260.0,Mobile Money,Completed
+ORD-00867,2025-10-27,CUST-1026,Greater Accra,In-store,Headphones,Electronics,6,450.0,0.05,2565.0,230.0,1380.0,1185.0,Card,Completed
+ORD-00868,2025-11-02,CUST-1094,Greater Accra,Online,Office Chair,Furniture,8,950.0,0.0,7600.0,590.0,4720.0,2880.0,Mobile Money,Completed
+ORD-00869,2025-06-12,CUST-1187,Greater Accra,Online,Headphones,Electronics,8,450.0,0.1,3240.0,230.0,1840.0,1400.0,Card,Completed
+ORD-00870,2025-01-15,CUST-1144,Ashanti,In-store,Notebook Pack,Stationery,6,65.0,0.05,370.5,28.0,168.0,202.5,Bank Transfer,Returned
+ORD-00871,2025-06-16,CUST-1002,Greater Accra,In-store,Desk,Furniture,7,1250.0,0.0,8750.0,790.0,5530.0,3220.0,Cash,Completed
+ORD-00872,2025-03-15,CUST-1142,Northern,Phone,Headphones,Electronics,4,450.0,0.0,1800.0,230.0,920.0,880.0,Mobile Money,Completed
+ORD-00873,2025-02-11,CUST-1202,Ashanti,In-store,Headphones,Electronics,6,450.0,0.0,2700.0,230.0,1380.0,1320.0,Cash,Completed
+ORD-00874,2025-02-15,CUST-1208,Central,Online,Headphones,Electronics,3,450.0,0.0,1350.0,230.0,690.0,660.0,Bank Transfer,Completed
+ORD-00875,2025-09-12,CUST-1096,Northern,Online,Headphones,Electronics,6,450.0,0.2,2160.0,230.0,1380.0,780.0,Mobile Money,Completed
+ORD-00876,2025-07-04,CUST-1060,Greater Accra,Online,Smartphone,Electronics,1,2800.0,0.05,2660.0,1950.0,1950.0,710.0,Mobile Money,Completed
+ORD-00877,2025-07-17,CUST-1078,Western,In-store,USB Drive,Accessories,8,95.0,0.0,760.0,42.0,336.0,424.0,Mobile Money,Completed
+ORD-00878,2025-09-29,CUST-1075,Eastern,Online,Notebook Pack,Stationery,2,65.0,0.2,104.0,28.0,56.0,48.0,Cash,Returned
+ORD-00879,2025-07-20,CUST-1087,Western,In-store,Smartphone,Electronics,6,2800.0,0.0,16800.0,1950.0,11700.0,5100.0,Mobile Money,Completed
+ORD-00880,2025-08-18,CUST-1076,Ashanti,Online,Printer Paper,Stationery,1,120.0,0.05,114.0,68.0,68.0,46.0,Card,Completed
+ORD-00881,2025-02-01,CUST-1115,Ashanti,In-store,USB Drive,Accessories,2,95.0,0.1,171.0,42.0,84.0,87.0,Bank Transfer,Completed
+ORD-00882,2025-11-07,CUST-1011,Greater Accra,Online,Headphones,Electronics,8,450.0,0.15,3060.0,230.0,1840.0,1220.0,Cash,Completed
+ORD-00883,2025-06-13,CUST-1069,Ashanti,Online,Smartphone,Electronics,7,2800.0,0.1,17640.0,1950.0,13650.0,3990.0,Card,Returned
+ORD-00884,2025-02-26,CUST-1079,Northern,In-store,Laptop,Electronics,2,4200.0,0.05,7980.0,3000.0,6000.0,1980.0,Bank Transfer,Completed
+ORD-00885,2025-10-24,CUST-1039,Northern,In-store,Laptop,Electronics,2,4200.0,0.2,6720.0,3000.0,6000.0,720.0,Mobile Money,Completed
+ORD-00886,2025-09-26,CUST-1220,Greater Accra,Online,Backpack,Accessories,7,320.0,0.0,2240.0,155.0,1085.0,1155.0,Cash,Completed
+ORD-00887,2025-01-20,CUST-1169,Central,In-store,Monitor,Electronics,8,1650.0,0.2,10560.0,1120.0,8960.0,1600.0,Mobile Money,Completed
+ORD-00888,2025-03-12,CUST-1228,Greater Accra,In-store,Laptop,Electronics,2,4200.0,0.15,7140.0,3000.0,6000.0,1140.0,Mobile Money,Completed
+ORD-00889,2025-01-06,CUST-1141,Eastern,In-store,Backpack,Accessories,6,320.0,0.15,1632.0,155.0,930.0,702.0,Cash,Completed
+ORD-00890,2025-04-09,CUST-1028,Greater Accra,Phone,Laptop,Electronics,3,4200.0,0.0,12600.0,3000.0,9000.0,3600.0,Mobile Money,Completed
+ORD-00891,2025-02-06,CUST-1227,Northern,Online,Notebook Pack,Stationery,6,65.0,0.0,390.0,28.0,168.0,222.0,Mobile Money,Completed
+ORD-00892,2025-09-17,CUST-1115,Eastern,In-store,Backpack,Accessories,4,320.0,0.1,1152.0,155.0,620.0,532.0,Card,Completed
+ORD-00893,2025-07-10,CUST-1172,Greater Accra,Phone,Headphones,Electronics,2,450.0,0.05,855.0,230.0,460.0,395.0,Mobile Money,Completed
+ORD-00894,2025-12-24,CUST-1096,Greater Accra,Online,Laptop,Electronics,3,4200.0,0.05,11970.0,3000.0,9000.0,2970.0,Mobile Money,Completed
+ORD-00895,2025-10-01,CUST-1124,Eastern,In-store,Notebook Pack,Stationery,5,65.0,0.15,276.25,28.0,140.0,136.25,Card,Completed
+ORD-00896,2025-08-12,CUST-1123,Greater Accra,In-store,Monitor,Electronics,7,1650.0,0.1,10395.0,1120.0,7840.0,2555.0,Bank Transfer,Completed
+ORD-00897,2025-07-05,CUST-1072,Ashanti,In-store,Headphones,Electronics,1,450.0,0.0,450.0,230.0,230.0,220.0,Bank Transfer,Completed
+ORD-00898,2025-01-20,CUST-1139,Northern,In-store,Smartphone,Electronics,8,2800.0,0.05,21280.0,1950.0,15600.0,5680.0,Mobile Money,Completed
+ORD-00899,2025-01-26,CUST-1184,Western,Online,Smartphone,Electronics,6,2800.0,0.0,16800.0,1950.0,11700.0,5100.0,Card,Returned
+ORD-00900,2025-08-13,CUST-1006,Ashanti,In-store,Notebook Pack,Stationery,8,65.0,0.0,520.0,28.0,224.0,296.0,Bank Transfer,Completed
+ORD-00901,2025-01-02,CUST-1033,Ashanti,Online,Notebook Pack,Stationery,8,65.0,0.0,520.0,28.0,224.0,296.0,Mobile Money,Completed
+ORD-00902,2025-01-16,CUST-1211,Greater Accra,In-store,Backpack,Accessories,2,320.0,0.1,576.0,155.0,310.0,266.0,Mobile Money,Completed
+ORD-00903,2025-03-21,CUST-1143,Northern,In-store,Backpack,Accessories,1,320.0,0.1,288.0,155.0,155.0,133.0,Mobile Money,Completed
+ORD-00904,2025-11-19,CUST-1244,Greater Accra,In-store,USB Drive,Accessories,7,95.0,0.05,631.75,42.0,294.0,337.75,Card,Completed
+ORD-00905,2025-06-17,CUST-1152,Greater Accra,Online,Backpack,Accessories,2,320.0,0.0,640.0,155.0,310.0,330.0,Mobile Money,Completed
+ORD-00906,2025-09-16,CUST-1164,Greater Accra,Online,Headphones,Electronics,2,450.0,0.1,810.0,230.0,460.0,350.0,Bank Transfer,Completed
+ORD-00907,2025-05-31,CUST-1225,Northern,In-store,Notebook Pack,Stationery,4,65.0,0.1,234.0,28.0,112.0,122.0,Cash,Returned
+ORD-00908,2025-03-05,CUST-1166,Greater Accra,In-store,Headphones,Electronics,8,450.0,0.15,3060.0,230.0,1840.0,1220.0,Mobile Money,Completed
+ORD-00909,2025-05-16,CUST-1083,Eastern,In-store,Headphones,Electronics,7,450.0,0.05,2992.5,230.0,1610.0,1382.5,Card,Completed
+ORD-00910,2025-02-03,CUST-1132,Central,Online,Monitor,Electronics,5,1650.0,0.1,7425.0,1120.0,5600.0,1825.0,Mobile Money,Completed
+ORD-00911,2025-10-09,CUST-1059,Eastern,In-store,Printer Paper,Stationery,2,120.0,0.05,228.0,68.0,136.0,92.0,Mobile Money,Completed
+ORD-00912,2025-03-08,CUST-1084,Northern,Online,Monitor,Electronics,3,1650.0,0.05,4702.5,1120.0,3360.0,1342.5,Bank Transfer,Completed
+ORD-00913,2025-05-18,CUST-1171,Eastern,In-store,Office Chair,Furniture,6,950.0,0.15,4845.0,590.0,3540.0,1305.0,Card,Completed
+ORD-00914,2025-12-24,CUST-1038,Northern,In-store,Notebook Pack,Stationery,2,65.0,0.0,130.0,28.0,56.0,74.0,Cash,Completed
+ORD-00915,2025-08-05,CUST-1168,Greater Accra,Online,Desk,Furniture,5,1250.0,0.0,6250.0,790.0,3950.0,2300.0,Card,Completed
+ORD-00916,2025-06-17,CUST-1147,Central,Online,Smartphone,Electronics,1,2800.0,0.0,2800.0,1950.0,1950.0,850.0,Mobile Money,Completed
+ORD-00917,2025-07-18,CUST-1078,Ashanti,In-store,Headphones,Electronics,3,450.0,0.05,1282.5,230.0,690.0,592.5,Card,Completed
+ORD-00918,2025-10-14,CUST-1012,Ashanti,Phone,Notebook Pack,Stationery,2,65.0,0.05,123.5,28.0,56.0,67.5,Mobile Money,Completed
+ORD-00919,2025-04-03,CUST-1177,Eastern,In-store,Laptop,Electronics,6,4200.0,0.1,22680.0,3000.0,18000.0,4680.0,Cash,Completed
+ORD-00920,2025-08-21,CUST-1207,Northern,In-store,Monitor,Electronics,8,1650.0,0.05,12540.0,1120.0,8960.0,3580.0,Bank Transfer,Completed
+ORD-00921,2025-11-15,CUST-1183,Central,In-store,Smartphone,Electronics,2,2800.0,0.0,5600.0,1950.0,3900.0,1700.0,Mobile Money,Completed
+ORD-00922,2025-07-28,CUST-1106,Ashanti,Online,Smartphone,Electronics,7,2800.0,0.15,16660.0,1950.0,13650.0,3010.0,Card,Completed
+ORD-00923,2025-06-12,CUST-1164,Ashanti,Online,Backpack,Accessories,6,320.0,0.0,1920.0,155.0,930.0,990.0,Card,Completed
+ORD-00924,2025-02-22,CUST-1104,Ashanti,In-store,Laptop,Electronics,8,4200.0,0.15,28560.0,3000.0,24000.0,4560.0,Bank Transfer,Completed
+ORD-00925,2025-04-01,CUST-1090,Ashanti,Phone,USB Drive,Accessories,8,95.0,0.0,760.0,42.0,336.0,424.0,Mobile Money,Completed
+ORD-00926,2025-12-12,CUST-1082,Ashanti,Online,Printer Paper,Stationery,1,120.0,0.05,114.0,68.0,68.0,46.0,Mobile Money,Completed
+ORD-00927,2025-07-17,CUST-1053,Greater Accra,Phone,Laptop,Electronics,6,4200.0,0.05,23940.0,3000.0,18000.0,5940.0,Mobile Money,Returned
+ORD-00928,2025-04-20,CUST-1243,Greater Accra,Online,Printer Paper,Stationery,5,120.0,0.15,510.0,68.0,340.0,170.0,Mobile Money,Completed
+ORD-00929,2025-06-02,CUST-1167,Central,Phone,Notebook Pack,Stationery,1,65.0,0.0,65.0,28.0,28.0,37.0,Card,Completed
+ORD-00930,2025-07-30,CUST-1044,Ashanti,Online,Backpack,Accessories,3,320.0,0.15,816.0,155.0,465.0,351.0,Mobile Money,Returned
+ORD-00931,2025-07-16,CUST-1217,Northern,In-store,Backpack,Accessories,8,320.0,0.05,2432.0,155.0,1240.0,1192.0,Card,Completed
+ORD-00932,2025-09-13,CUST-1038,Western,In-store,Printer Paper,Stationery,5,120.0,0.05,570.0,68.0,340.0,230.0,Card,Completed
+ORD-00933,2025-04-04,CUST-1149,Greater Accra,Online,Notebook Pack,Stationery,3,65.0,0.05,185.25,28.0,84.0,101.25,Mobile Money,Completed
+ORD-00934,2025-08-25,CUST-1042,Greater Accra,In-store,Headphones,Electronics,3,450.0,0.0,1350.0,230.0,690.0,660.0,Cash,Completed
+ORD-00935,2025-06-11,CUST-1091,Greater Accra,Online,Printer Paper,Stationery,7,120.0,0.05,798.0,68.0,476.0,322.0,Card,Completed
+ORD-00936,2025-12-10,CUST-1165,Northern,In-store,Monitor,Electronics,3,1650.0,0.0,4950.0,1120.0,3360.0,1590.0,Mobile Money,Completed
+ORD-00937,2025-02-27,CUST-1250,Greater Accra,Online,Notebook Pack,Stationery,2,65.0,0.0,130.0,28.0,56.0,74.0,Card,Completed
+ORD-00938,2025-02-24,CUST-1248,Ashanti,In-store,Printer Paper,Stationery,5,120.0,0.1,540.0,68.0,340.0,200.0,Mobile Money,Completed
+ORD-00939,2025-06-18,CUST-1224,Northern,Phone,Office Chair,Furniture,8,950.0,0.05,7220.0,590.0,4720.0,2500.0,Bank Transfer,Completed
+ORD-00940,2025-07-05,CUST-1059,Northern,In-store,Backpack,Accessories,2,320.0,0.0,640.0,155.0,310.0,330.0,Card,Completed
+ORD-00941,2025-09-10,CUST-1024,Greater Accra,In-store,Monitor,Electronics,3,1650.0,0.0,4950.0,1120.0,3360.0,1590.0,Card,Completed
+ORD-00942,2025-05-28,CUST-1227,Greater Accra,Online,Smartphone,Electronics,4,2800.0,0.0,11200.0,1950.0,7800.0,3400.0,Cash,Completed
+ORD-00943,2025-11-30,CUST-1231,Greater Accra,Online,Smartphone,Electronics,2,2800.0,0.0,5600.0,1950.0,3900.0,1700.0,Bank Transfer,Completed
+ORD-00944,2025-06-23,CUST-1070,Greater Accra,Online,Notebook Pack,Stationery,6,65.0,0.1,351.0,28.0,168.0,183.0,Bank Transfer,Completed
+ORD-00945,2025-02-17,CUST-1005,Greater Accra,Phone,Desk,Furniture,3,1250.0,0.0,3750.0,790.0,2370.0,1380.0,Mobile Money,Completed
+ORD-00946,2025-02-13,CUST-1162,Western,In-store,Notebook Pack,Stationery,2,65.0,0.15,110.5,28.0,56.0,54.5,Mobile Money,Completed
+ORD-00947,2025-12-22,CUST-1020,Northern,Online,Laptop,Electronics,3,4200.0,0.0,12600.0,3000.0,9000.0,3600.0,Bank Transfer,Completed
+ORD-00948,2025-02-18,CUST-1011,Ashanti,In-store,Office Chair,Furniture,8,950.0,0.0,7600.0,590.0,4720.0,2880.0,Card,Completed
+ORD-00949,2025-12-12,CUST-1235,Western,Online,Notebook Pack,Stationery,8,65.0,0.15,442.0,28.0,224.0,218.0,Bank Transfer,Completed
+ORD-00950,2025-04-12,CUST-1124,Greater Accra,In-store,Notebook Pack,Stationery,5,65.0,0.0,325.0,28.0,140.0,185.0,Bank Transfer,Completed
+ORD-00951,2025-02-04,CUST-1029,Central,In-store,Printer Paper,Stationery,4,120.0,0.05,456.0,68.0,272.0,184.0,Mobile Money,Completed
+ORD-00952,2025-04-22,CUST-1164,Western,Online,Printer Paper,Stationery,7,120.0,0.2,672.0,68.0,476.0,196.0,Mobile Money,Completed
+ORD-00953,2025-08-13,CUST-1093,Eastern,Online,Printer Paper,Stationery,2,120.0,0.2,192.0,68.0,136.0,56.0,Card,Completed
+ORD-00954,2025-06-06,CUST-1135,Northern,In-store,Backpack,Accessories,6,320.0,0.1,1728.0,155.0,930.0,798.0,Mobile Money,Completed
+ORD-00955,2025-10-14,CUST-1225,Ashanti,Phone,Notebook Pack,Stationery,6,65.0,0.0,390.0,28.0,168.0,222.0,Card,Returned
+ORD-00956,2025-08-12,CUST-1060,Greater Accra,Online,Notebook Pack,Stationery,6,65.0,0.05,370.5,28.0,168.0,202.5,Bank Transfer,Completed
+ORD-00957,2025-05-27,CUST-1162,Greater Accra,In-store,Notebook Pack,Stationery,2,65.0,0.2,104.0,28.0,56.0,48.0,Card,Completed
+ORD-00958,2025-08-20,CUST-1208,Ashanti,Online,Smartphone,Electronics,6,2800.0,0.2,13440.0,1950.0,11700.0,1740.0,Bank Transfer,Completed
+ORD-00959,2025-12-21,CUST-1106,Northern,In-store,Headphones,Electronics,5,450.0,0.0,2250.0,230.0,1150.0,1100.0,Card,Completed
+ORD-00960,2025-05-31,CUST-1243,Ashanti,In-store,Notebook Pack,Stationery,8,65.0,0.0,520.0,28.0,224.0,296.0,Bank Transfer,Completed
+ORD-00961,2025-02-26,CUST-1113,Central,Online,USB Drive,Accessories,2,95.0,0.0,190.0,42.0,84.0,106.0,Mobile Money,Completed
+ORD-00962,2025-05-30,CUST-1115,Ashanti,In-store,Printer Paper,Stationery,5,120.0,0.0,600.0,68.0,340.0,260.0,Bank Transfer,Completed
+ORD-00963,2025-11-03,CUST-1222,Greater Accra,In-store,Laptop,Electronics,7,4200.0,0.1,26460.0,3000.0,21000.0,5460.0,Bank Transfer,Completed
+ORD-00964,2025-03-21,CUST-1159,Greater Accra,Online,Notebook Pack,Stationery,3,65.0,0.0,195.0,28.0,84.0,111.0,Mobile Money,Completed
+ORD-00965,2025-12-13,CUST-1218,Western,In-store,Smartphone,Electronics,6,2800.0,0.0,16800.0,1950.0,11700.0,5100.0,Card,Returned
+ORD-00966,2025-08-03,CUST-1198,Western,Online,Printer Paper,Stationery,1,120.0,0.0,120.0,68.0,68.0,52.0,Bank Transfer,Completed
+ORD-00967,2025-08-08,CUST-1179,Ashanti,Online,Backpack,Accessories,6,320.0,0.05,1824.0,155.0,930.0,894.0,Mobile Money,Completed
+ORD-00968,2025-04-26,CUST-1061,Greater Accra,In-store,Notebook Pack,Stationery,5,65.0,0.0,325.0,28.0,140.0,185.0,Bank Transfer,Completed
+ORD-00969,2025-12-02,CUST-1100,Central,Online,Notebook Pack,Stationery,2,65.0,0.05,123.5,28.0,56.0,67.5,Cash,Completed
+ORD-00970,2025-01-14,CUST-1217,Greater Accra,In-store,Headphones,Electronics,1,450.0,0.0,450.0,230.0,230.0,220.0,Cash,Completed
+ORD-00971,2025-04-20,CUST-1155,Northern,Online,Office Chair,Furniture,6,950.0,0.2,4560.0,590.0,3540.0,1020.0,Card,Completed
+ORD-00972,2025-06-02,CUST-1071,Greater Accra,In-store,USB Drive,Accessories,2,95.0,0.0,190.0,42.0,84.0,106.0,Card,Completed
+ORD-00973,2025-06-24,CUST-1082,Greater Accra,Phone,Printer Paper,Stationery,4,120.0,0.05,456.0,68.0,272.0,184.0,Cash,Completed
+ORD-00974,2025-06-23,CUST-1194,Ashanti,In-store,Desk,Furniture,1,1250.0,0.0,1250.0,790.0,790.0,460.0,Card,Completed
+ORD-00975,2025-02-23,CUST-1045,Ashanti,Online,Headphones,Electronics,8,450.0,0.0,3600.0,230.0,1840.0,1760.0,Mobile Money,Completed
+ORD-00976,2025-03-24,CUST-1029,Ashanti,In-store,Laptop,Electronics,5,4200.0,0.0,21000.0,3000.0,15000.0,6000.0,Mobile Money,Completed
+ORD-00977,2025-02-04,CUST-1192,Ashanti,In-store,Smartphone,Electronics,8,2800.0,0.0,22400.0,1950.0,15600.0,6800.0,Bank Transfer,Completed
+ORD-00978,2025-07-28,CUST-1073,Northern,In-store,Smartphone,Electronics,2,2800.0,0.0,5600.0,1950.0,3900.0,1700.0,Card,Completed
+ORD-00979,2025-05-09,CUST-1192,Ashanti,Online,Office Chair,Furniture,2,950.0,0.05,1805.0,590.0,1180.0,625.0,Mobile Money,Completed
+ORD-00980,2025-07-26,CUST-1134,Ashanti,Phone,Monitor,Electronics,5,1650.0,0.1,7425.0,1120.0,5600.0,1825.0,Mobile Money,Completed
+ORD-00981,2025-08-04,CUST-1250,Ashanti,In-store,Desk,Furniture,5,1250.0,0.0,6250.0,790.0,3950.0,2300.0,Bank Transfer,Completed
+ORD-00982,2025-09-14,CUST-1132,Greater Accra,In-store,Headphones,Electronics,7,450.0,0.05,2992.5,230.0,1610.0,1382.5,Card,Completed
+ORD-00983,2025-07-19,CUST-1217,Western,In-store,Smartphone,Electronics,8,2800.0,0.05,21280.0,1950.0,15600.0,5680.0,Cash,Completed
+ORD-00984,2025-08-25,CUST-1213,Greater Accra,In-store,Headphones,Electronics,7,450.0,0.0,3150.0,230.0,1610.0,1540.0,Bank Transfer,Completed
+ORD-00985,2025-08-03,CUST-1053,Western,Phone,Backpack,Accessories,2,320.0,0.0,640.0,155.0,310.0,330.0,Cash,Completed
+ORD-00986,2025-08-27,CUST-1250,Greater Accra,Phone,Office Chair,Furniture,3,950.0,0.0,2850.0,590.0,1770.0,1080.0,Cash,Completed
+ORD-00987,2025-08-14,CUST-1187,Northern,Phone,Backpack,Accessories,8,320.0,0.0,2560.0,155.0,1240.0,1320.0,Mobile Money,Completed
+ORD-00988,2025-04-26,CUST-1027,Ashanti,In-store,Backpack,Accessories,5,320.0,0.05,1520.0,155.0,775.0,745.0,Card,Completed
+ORD-00989,2025-03-31,CUST-1002,Eastern,In-store,Smartphone,Electronics,7,2800.0,0.2,15680.0,1950.0,13650.0,2030.0,Mobile Money,Completed
+ORD-00990,2025-10-15,CUST-1068,Ashanti,Online,Notebook Pack,Stationery,5,65.0,0.2,260.0,28.0,140.0,120.0,Cash,Completed
+ORD-00991,2025-05-06,CUST-1005,Greater Accra,In-store,Monitor,Electronics,1,1650.0,0.2,1320.0,1120.0,1120.0,200.0,Mobile Money,Returned
+ORD-00992,2025-07-20,CUST-1090,Eastern,Online,Office Chair,Furniture,4,950.0,0.05,3610.0,590.0,2360.0,1250.0,Card,Returned
+ORD-00993,2025-03-13,CUST-1250,Western,In-store,Laptop,Electronics,7,4200.0,0.0,29400.0,3000.0,21000.0,8400.0,Bank Transfer,Completed
+ORD-00994,2025-06-07,CUST-1120,Central,In-store,Monitor,Electronics,6,1650.0,0.0,9900.0,1120.0,6720.0,3180.0,Mobile Money,Completed
+ORD-00995,2025-07-13,CUST-1006,Ashanti,Phone,USB Drive,Accessories,2,95.0,0.0,190.0,42.0,84.0,106.0,Bank Transfer,Completed
+ORD-00996,2025-08-17,CUST-1124,Western,In-store,Notebook Pack,Stationery,2,65.0,0.0,130.0,28.0,56.0,74.0,Mobile Money,Completed
+ORD-00997,2025-07-12,CUST-1055,Eastern,Phone,Notebook Pack,Stationery,7,65.0,0.0,455.0,28.0,196.0,259.0,Card,Completed
+ORD-00998,2025-05-12,CUST-1215,Western,In-store,Smartphone,Electronics,8,2800.0,0.05,21280.0,1950.0,15600.0,5680.0,Card,Completed
+ORD-00999,2025-12-18,CUST-1023,Ashanti,In-store,Backpack,Accessories,7,320.0,0.0,2240.0,155.0,1085.0,1155.0,Mobile Money,Completed
+ORD-01000,2025-07-07,CUST-1193,Western,In-store,Desk,Furniture,1,1250.0,0.0,1250.0,790.0,790.0,460.0,Card,Completed
