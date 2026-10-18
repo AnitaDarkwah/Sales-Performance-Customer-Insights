@@ -1,1 +1,1 @@
-Save your Power BI project (.pbix) and dashboard screenshots here after we learn the basics.
+We will record validated findings and business recommendations here after analyzing the data.
