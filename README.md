@@ -22,9 +22,9 @@ This beginner-friendly data analytics portfolio project explores sales performan
 - [x] Validate and clean the data in Excel.
 - [x] Create summary tables and charts in Excel.
 - [x] Answer business questions with SQL.
-- [ ] Build an interactive Power BI dashboard.
-- [ ] Document findings and practical recommendations.
-- [ ] Add screenshots and final deliverables to this repository.
+- [x] Build an interactive Power BI dashboard.
+- [x] Document findings and practical recommendations.
+- [x] Add screenshots and final deliverables to this repository.
 
 ## Dataset dictionary
 | Column | Description |
